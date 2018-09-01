@@ -96,7 +96,8 @@
                             :id="'lcal-pt-videoitem-' + video.video_id" 
                             :title="video.title" 
                             class="lcal-video"
-                            :class="[{'lcal-video-watched':video.hasOwnProperty('time'), 'lcal-video-unwatched':!video.hasOwnProperty('time')}, 'course-bdcolor-'+dt['videos'][video.video_id].course_seq]">
+                            :class="[{'lcal-video-watched':video.hasOwnProperty('time'), 'lcal-video-unwatched':!video.hasOwnProperty('time')}, 'course-bdcolor-'+dt['videos'][video.video_id].course_seq]"
+                            v-on:click="view_video(video.video_id);">
                             <div v-if="video.hasOwnProperty('time')" 
                                 class="lcal-video-watchtime" 
                                 :class="'course-bgcolor-'+dt['videos'][video.video_id].course_seq" 
@@ -209,6 +210,13 @@ var dt = {
     'courses': {},
     'videos': {},
     'stat': null
+}
+
+/*
+ * open the video page
+ */
+function view_video(video_id) {
+    alert('The video [' + video_id + '] will be opened in a new window.\nThis version removed this function.');
 }
 
 /*
@@ -525,7 +533,7 @@ function mark_calendar(data) {
                 // video: [time_watched(seconds), video_ur]
                 // add this video record to calendar
                 var v = $([
-                    '<div class="lcal-vc-video lcal-vc-video-watched course-bdcolor-'+(dt['videos'][video_id].course_seq)+'" title="Watched '+util.sec2display(video[0])+' of '+ (dt['videos'][video_id].title)+'">' +
+                    '<div onclick="view_video('+video_id+');" class="lcal-vc-video lcal-vc-video-watched course-bdcolor-'+(dt['videos'][video_id].course_seq)+'" title="Watched '+util.sec2display(video[0])+' of '+ (dt['videos'][video_id].title)+'">' +
                     '  <div class="lcal-vc-video-watchtime course-bgcolor-'+(dt['videos'][video_id].course_seq)+'" style="width:'+((video[1]>1?1:video[1])*8)+'px"></div>' +
                     '</div>'
                 ].join(''));
