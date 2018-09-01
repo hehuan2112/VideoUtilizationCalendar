@@ -1,0 +1,6204 @@
+{
+  "courses": [
+    {
+      "course_code": "G0010", 
+      "course_id": 59099, 
+      "etitle": "an introduction to politics", 
+      "progress": {
+        "c_ar": 0.9524, 
+        "c_ur": 1.3959, 
+        "course_id": 59099, 
+        "video_list": [
+          {
+            "time": 171, 
+            "v_ar": 1, 
+            "v_ur": 0.9828, 
+            "video_id": 2077
+          }, 
+          {
+            "time": 3106, 
+            "v_ar": 1, 
+            "v_ur": 2.0341, 
+            "video_id": 2028
+          }, 
+          {
+            "time": 2688, 
+            "v_ar": 1, 
+            "v_ur": 0.9985, 
+            "video_id": 2078
+          }, 
+          {
+            "time": 5478, 
+            "v_ar": 1, 
+            "v_ur": 1.9978, 
+            "video_id": 2062
+          }, 
+          {
+            "time": 6405, 
+            "v_ar": 1, 
+            "v_ur": 3.7989, 
+            "video_id": 2036
+          }, 
+          {
+            "time": 2946, 
+            "v_ar": 1, 
+            "v_ur": 0.999, 
+            "video_id": 2060
+          }, 
+          {
+            "time": 2734, 
+            "v_ar": 1, 
+            "v_ur": 0.9985, 
+            "video_id": 2065
+          }, 
+          {
+            "time": 619, 
+            "v_ar": 1, 
+            "v_ur": 0.9936, 
+            "video_id": 2082
+          }, 
+          {
+            "time": 2704, 
+            "v_ar": 1, 
+            "v_ur": 0.9989, 
+            "video_id": 2055
+          }, 
+          {
+            "time": 1989, 
+            "v_ar": 1, 
+            "v_ur": 0.998, 
+            "video_id": 2084
+          }, 
+          {
+            "time": 2582, 
+            "v_ar": 1, 
+            "v_ur": 0.9985, 
+            "video_id": 2074
+          }, 
+          {
+            "time": 1467, 
+            "v_ar": 1, 
+            "v_ur": 0.9973, 
+            "video_id": 2068
+          }, 
+          {
+            "time": 2702, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 2054
+          }, 
+          {
+            "time": 1201, 
+            "v_ar": 1, 
+            "v_ur": 0.9967, 
+            "video_id": 2032
+          }, 
+          {
+            "time": 6659, 
+            "v_ar": 1, 
+            "v_ur": 3.9922, 
+            "video_id": 2030
+          }, 
+          {
+            "time": 1196, 
+            "v_ar": 1, 
+            "v_ur": 0.9975, 
+            "video_id": 2076
+          }, 
+          {
+            "time": 808, 
+            "v_ar": 1, 
+            "v_ur": 0.9951, 
+            "video_id": 2080
+          }, 
+          {
+            "time": 506, 
+            "v_ar": 1, 
+            "v_ur": 0.9941, 
+            "video_id": 2081
+          }, 
+          {
+            "time": 2639, 
+            "v_ar": 1, 
+            "v_ur": 0.9989, 
+            "video_id": 2056
+          }, 
+          {
+            "time": 1221, 
+            "v_ar": 1, 
+            "v_ur": 0.9975, 
+            "video_id": 2066
+          }, 
+          {
+            "time": 1844, 
+            "v_ar": 1, 
+            "v_ur": 0.9978, 
+            "video_id": 2063
+          }, 
+          {
+            "time": 5574, 
+            "v_ar": 1, 
+            "v_ur": 1.9971, 
+            "video_id": 2061
+          }, 
+          {
+            "time": 2264, 
+            "v_ar": 1, 
+            "v_ur": 1.1247, 
+            "video_id": 2067
+          }, 
+          {
+            "time": 986, 
+            "v_ar": 1, 
+            "v_ur": 0.999, 
+            "video_id": 2085
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 2071
+          }, 
+          {
+            "time": 1198, 
+            "v_ar": 1, 
+            "v_ur": 0.9975, 
+            "video_id": 2064
+          }, 
+          {
+            "time": 2233, 
+            "v_ar": 1, 
+            "v_ur": 0.9987, 
+            "video_id": 2053
+          }, 
+          {
+            "time": 1456, 
+            "v_ar": 1, 
+            "v_ur": 0.9979, 
+            "video_id": 2073
+          }, 
+          {
+            "time": 5382, 
+            "v_ar": 1, 
+            "v_ur": 1.9978, 
+            "video_id": 2042
+          }, 
+          {
+            "time": 5403, 
+            "v_ar": 1, 
+            "v_ur": 1.9959, 
+            "video_id": 2038
+          }, 
+          {
+            "time": 9468, 
+            "v_ar": 1, 
+            "v_ur": 2.9962, 
+            "video_id": 2040
+          }, 
+          {
+            "time": 1987, 
+            "v_ar": 1, 
+            "v_ur": 0.9995, 
+            "video_id": 2037
+          }, 
+          {
+            "time": 4828, 
+            "v_ar": 1, 
+            "v_ur": 1.9975, 
+            "video_id": 2039
+          }, 
+          {
+            "time": 1158, 
+            "v_ar": 1, 
+            "v_ur": 0.9966, 
+            "video_id": 2041
+          }, 
+          {
+            "time": 979, 
+            "v_ar": 1, 
+            "v_ur": 0.9959, 
+            "video_id": 2079
+          }, 
+          {
+            "time": 1229, 
+            "v_ar": 1, 
+            "v_ur": 0.9976, 
+            "video_id": 2070
+          }, 
+          {
+            "time": 2054, 
+            "v_ar": 1, 
+            "v_ur": 0.9981, 
+            "video_id": 2069
+          }, 
+          {
+            "time": 898, 
+            "v_ar": 1, 
+            "v_ur": 0.9846, 
+            "video_id": 2025
+          }, 
+          {
+            "time": 3095, 
+            "v_ar": 1, 
+            "v_ur": 0.9987, 
+            "video_id": 2024
+          }, 
+          {
+            "time": 3028, 
+            "v_ar": 1, 
+            "v_ur": 0.9987, 
+            "video_id": 2026
+          }, 
+          {
+            "time": 2069, 
+            "v_ar": 1, 
+            "v_ur": 0.9981, 
+            "video_id": 2075
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 2049
+          }, 
+          {
+            "time": 3036, 
+            "v_ar": 1, 
+            "v_ur": 0.9987, 
+            "video_id": 2051
+          }, 
+          {
+            "time": 4961, 
+            "v_ar": 1, 
+            "v_ur": 1.7756, 
+            "video_id": 2059
+          }, 
+          {
+            "time": 11136, 
+            "v_ar": 1, 
+            "v_ur": 3.9943, 
+            "video_id": 2058
+          }, 
+          {
+            "time": 2729, 
+            "v_ar": 1, 
+            "v_ur": 0.9989, 
+            "video_id": 2050
+          }, 
+          {
+            "time": 3201, 
+            "v_ar": 1, 
+            "v_ur": 2.8812, 
+            "video_id": 2045
+          }, 
+          {
+            "time": 5374, 
+            "v_ar": 1, 
+            "v_ur": 1.997, 
+            "video_id": 2057
+          }, 
+          {
+            "time": 2719, 
+            "v_ar": 1, 
+            "v_ur": 0.9985, 
+            "video_id": 2046
+          }, 
+          {
+            "time": 8283, 
+            "v_ar": 1, 
+            "v_ur": 2.9957, 
+            "video_id": 2044
+          }, 
+          {
+            "time": 2518, 
+            "v_ar": 1, 
+            "v_ur": 0.9984, 
+            "video_id": 2047
+          }, 
+          {
+            "time": 5536, 
+            "v_ar": 1, 
+            "v_ur": 1.9978, 
+            "video_id": 2048
+          }, 
+          {
+            "time": 1271, 
+            "v_ar": 1, 
+            "v_ur": 0.9976, 
+            "video_id": 2052
+          }, 
+          {
+            "time": 1635, 
+            "v_ar": 1, 
+            "v_ur": 0.9976, 
+            "video_id": 2029
+          }, 
+          {
+            "time": 1266, 
+            "v_ar": 1, 
+            "v_ur": 0.9969, 
+            "video_id": 2083
+          }, 
+          {
+            "time": 101, 
+            "v_ar": 1, 
+            "v_ur": 0.9712, 
+            "video_id": 2033
+          }, 
+          {
+            "time": 8256, 
+            "v_ar": 1, 
+            "v_ur": 2.9956, 
+            "video_id": 2043
+          }, 
+          {
+            "time": 7876, 
+            "v_ar": 1, 
+            "v_ur": 3.9919, 
+            "video_id": 2035
+          }, 
+          {
+            "time": 5435, 
+            "v_ar": 1, 
+            "v_ur": 1.9974, 
+            "video_id": 2027
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 2023
+          }
+        ]
+      }, 
+      "seq": 0, 
+      "title": "\u6bdb\u6cfd\u4e1c\u601d\u60f3\u548c\u4e2d\u56fd\u7279\u8272\u793e\u4f1a\u4e3b\u4e49\u7406\u8bba\u4f53\u7cfb\u6982\u8bba", 
+      "video_count": 63, 
+      "video_list": [
+        [
+          {
+            "chp": 1, 
+            "duration": 3589, 
+            "seq": 1, 
+            "title": "\u9a6c\u514b\u601d\u4e3b\u4e49\u4e2d\u56fd\u5316\u7684\u79d1\u5b66\u5185\u6db5\u53ca\u7406\u8bba\u6210\u679c\u6db5", 
+            "video_id": 2023
+          }, 
+          {
+            "chp": 1, 
+            "duration": 3099, 
+            "seq": 2, 
+            "title": "\u6bdb\u6cfd\u4e1c\u601d\u60f3\u7684\u5185\u6db5\u548c\u5f62\u6210", 
+            "video_id": 2024
+          }, 
+          {
+            "chp": 1, 
+            "duration": 912, 
+            "seq": 3, 
+            "title": "\u6bdb\u6cfd\u4e1c\u601d\u60f3\u7684\u5185\u5bb9", 
+            "video_id": 2025
+          }, 
+          {
+            "chp": 1, 
+            "duration": 3032, 
+            "seq": 4, 
+            "title": "\u6bdb\u6cfd\u4e1c\u601d\u60f3\u7684\u5386\u53f2\u5730\u4f4d\u548c\u6307\u5bfc\u610f\u4e49", 
+            "video_id": 2026
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2721, 
+            "seq": 5, 
+            "title": "\u9093\u5c0f\u5e73\u7406\u8bba", 
+            "video_id": 2027
+          }, 
+          {
+            "chp": 1, 
+            "duration": 1527, 
+            "seq": 6, 
+            "title": "\u201c\u4e09\u4e2a\u4ee3\u8868\u201d\u91cd\u8981\u601d\u60f3", 
+            "video_id": 2028
+          }, 
+          {
+            "chp": 1, 
+            "duration": 1639, 
+            "seq": 7, 
+            "title": "\u79d1\u5b66\u53d1\u5c55\u89c2", 
+            "video_id": 2029
+          }, 
+          {
+            "chp": 1, 
+            "duration": 1668, 
+            "seq": 8, 
+            "title": "\u5b9e\u4e8b\u6c42\u662f\u601d\u60f3\u8def\u7ebf\u7684\u5f62\u6210\u548c\u53d1\u5c55", 
+            "video_id": 2030
+          }, 
+          {
+            "chp": 1, 
+            "duration": 3401, 
+            "seq": 9, 
+            "title": "\u5b9e\u4e8b\u6c42\u662f\u601d\u60f3\u8def\u7ebf\u7684\u91cd\u65b0\u786e\u7acb", 
+            "video_id": 2031
+          }, 
+          {
+            "chp": 1, 
+            "duration": 1205, 
+            "seq": 10, 
+            "title": "\u5b9e\u4e8b\u6c42\u662f\u601d\u60f3\u8def\u7ebf\u7684\u5185\u5bb9\u548c\u610f\u4e49", 
+            "video_id": 2032
+          }, 
+          {
+            "chp": 1, 
+            "duration": 104, 
+            "seq": 11, 
+            "title": "\u89e3\u653e\u601d\u60f3\u3001\u5b9e\u4e8b\u6c42\u662f\u3001\u4e0e\u65f6\u4ff1\u8fdb\u3001\u6c42\u771f\u52a1\u5b9e", 
+            "video_id": 2033
+          }
+        ], 
+        [
+          {
+            "chp": 2, 
+            "duration": 3150, 
+            "seq": 12, 
+            "title": "\u8fd1\u4ee3\u4e2d\u56fd\u56fd\u60c5", 
+            "video_id": 2034
+          }, 
+          {
+            "chp": 2, 
+            "duration": 1973, 
+            "seq": 13, 
+            "title": "\u8fd1\u4ee3\u4e2d\u56fd\u9769\u547d\u7684\u65f6\u4ee3\u7279\u5f81", 
+            "video_id": 2035
+          }, 
+          {
+            "chp": 2, 
+            "duration": 1686, 
+            "seq": 14, 
+            "title": "\u4e2d\u56fd\u9769\u547d\u7ecf\u9a8c\u7684\u6982\u62ec\u548c\u603b\u7ed3", 
+            "video_id": 2036
+          }, 
+          {
+            "chp": 2, 
+            "duration": 1988, 
+            "seq": 15, 
+            "title": "\u65b0\u6c11\u4e3b\u4e3b\u4e49\u9769\u547d\u7684\u603b\u8def\u7ebf", 
+            "video_id": 2037
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2707, 
+            "seq": 16, 
+            "title": "\u65b0\u6c11\u4e3b\u4e3b\u4e49\u9769\u547d\u7684\u57fa\u672c\u7eb2\u9886", 
+            "video_id": 2038
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2417, 
+            "seq": 17, 
+            "title": "\u65b0\u6c11\u4e3b\u4e3b\u4e49\u9769\u547d\u7684\u9053\u8def", 
+            "video_id": 2039
+          }, 
+          {
+            "chp": 2, 
+            "duration": 3160, 
+            "seq": 18, 
+            "title": "\u65b0\u6c11\u4e3b\u4e3b\u4e49\u9769\u547d\u7684\u57fa\u672c\u7ecf\u9a8c", 
+            "video_id": 2040
+          }, 
+          {
+            "chp": 2, 
+            "duration": 1162, 
+            "seq": 19, 
+            "title": "\u65b0\u6c11\u4e3b\u4e49\u4e3b\u4e49\u9769\u547d\u7406\u8bba\u7684\u610f\u4e49", 
+            "video_id": 2041
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2694, 
+            "seq": 20, 
+            "title": "\u65b0\u6c11\u4e3b\u4e3b\u4e49\u793e\u4f1a", 
+            "video_id": 2042
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2756, 
+            "seq": 21, 
+            "title": "\u8fc7\u6e21\u65f6\u671f\u7684\u603b\u8def\u7ebf", 
+            "video_id": 2043
+          }
+        ], 
+        [
+          {
+            "chp": 3, 
+            "duration": 2765, 
+            "seq": 22, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u6539\u9020\u9053\u8def\u548c\u5386\u53f2\u7ecf\u9a8c", 
+            "video_id": 2044
+          }, 
+          {
+            "chp": 3, 
+            "duration": 1111, 
+            "seq": 23, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u5236\u5ea6\u5728\u4e2d\u56fd\u786e\u7acb", 
+            "video_id": 2045
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2723, 
+            "seq": 24, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u5efa\u8bbe\u7684\u63a2\u7d22\u5386\u7a0b", 
+            "video_id": 2046
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2522, 
+            "seq": 25, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u672c\u8d28", 
+            "video_id": 2047
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2771, 
+            "seq": 26, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u6839\u672c\u4efb\u52a1", 
+            "video_id": 2048
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2759, 
+            "seq": 27, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u521d\u7ea7\u9636\u6bb5\u662f\u4e2d\u56fd\u6700\u5927\u7684\u5b9e\u9645", 
+            "video_id": 2049
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2732, 
+            "seq": 28, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u521d\u7ea7\u9636\u6bb5\u7684\u57fa\u672c\u8def\u7ebf\u548c\u57fa\u672c\u7eb2\u9886", 
+            "video_id": 2050
+          }, 
+          {
+            "chp": 3, 
+            "duration": 3040, 
+            "seq": 29, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u521d\u7ea7\u9636\u6bb5\u7684\u53d1\u5c55\u6218\u7565", 
+            "video_id": 2051
+          }, 
+          {
+            "chp": 3, 
+            "duration": 1274, 
+            "seq": 30, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u793e\u4f1a\u7684\u57fa\u672c\u77db\u76fe", 
+            "video_id": 2052
+          }
+        ], 
+        [
+          {
+            "chp": 4, 
+            "duration": 2236, 
+            "seq": 31, 
+            "title": "\u6539\u9769\u5f00\u653e\u662f\u51b3\u5b9a\u5f53\u4ee3\u4e2d\u56fd\u547d\u8fd0\u7684\u5173\u952e\u9009\u62e9", 
+            "video_id": 2053
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2702, 
+            "seq": 32, 
+            "title": "\u575a\u5b9a\u4e0d\u79fb\u5730\u63a8\u52a8\u5bf9\u5916\u5f00\u653e", 
+            "video_id": 2054
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2707, 
+            "seq": 33, 
+            "title": "\u5168\u7403\u5316", 
+            "video_id": 2055
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2642, 
+            "seq": 34, 
+            "title": "\u5efa\u7acb\u793e\u4f1a\u4e3b\u4e49\u5e02\u573a\u7ecf\u6d4e\u4f53\u5236", 
+            "video_id": 2056
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2691, 
+            "seq": 35, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u5e02\u573a\u7ecf\u6d4e\u7406\u8bba\u7684\u5f62\u6210\u548c\u53d1\u5c55", 
+            "video_id": 2057
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2788, 
+            "seq": 36, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u521d\u7ea7\u9636\u6bb5\u7684\u57fa\u672c\u7ecf\u6d4e\u5236\u5ea6", 
+            "video_id": 2058
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2794, 
+            "seq": 37, 
+            "title": "\u793e\u4f1a\u4e3b\u4e49\u521d\u7ea7\u9636\u6bb5\u7684\u57fa\u672c\u5206\u914d\u5236\u5ea6", 
+            "video_id": 2059
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2949, 
+            "seq": 38, 
+            "title": "\u4fc3\u8fdb\u56fd\u6c11\u7ecf\u6d4e\u53c8\u597d\u53c8\u5feb\u53d1\u5c55", 
+            "video_id": 2060
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2791, 
+            "seq": 39, 
+            "title": "\u5efa\u8bbe\u8d44\u6e90\u8282\u7ea6\u578b\u3001\u73af\u5883\u53cb\u597d\u578b\u793e\u4f1a", 
+            "video_id": 2061
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2742, 
+            "seq": 40, 
+            "title": "\u4e2d\u56fd\u7279\u8272\u793e\u4f1a\u4e3b\u4e49\u7684\u6c11\u4e3b\u653f\u6cbb", 
+            "video_id": 2062
+          }, 
+          {
+            "chp": 4, 
+            "duration": 1848, 
+            "seq": 41, 
+            "title": "\u5efa\u8bbe\u793e\u4f1a\u4e3b\u4e49\u6cd5\u6cbb\u56fd\u5bb6", 
+            "video_id": 2063
+          }
+        ], 
+        [
+          {
+            "chp": 5, 
+            "duration": 1201, 
+            "seq": 42, 
+            "title": "\u63a8\u8fdb\u653f\u6cbb\u4f53\u5236\u6539\u9769", 
+            "video_id": 2064
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2738, 
+            "seq": 43, 
+            "title": "\u5148\u8fdb\u6587\u5316", 
+            "video_id": 2065
+          }, 
+          {
+            "chp": 5, 
+            "duration": 1224, 
+            "seq": 44, 
+            "title": "\u5efa\u8bbe\u793e\u4f1a\u4e3b\u4e49\u6838\u5fc3\u4ef7\u503c\u4f53\u7cfb", 
+            "video_id": 2066
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2013, 
+            "seq": 45, 
+            "title": "\u601d\u60f3\u9053\u5fb7\u5efa\u8bbe\u548c\u79d1\u5b66\u6587\u5316\u5efa\u8bbe", 
+            "video_id": 2067
+          }, 
+          {
+            "chp": 5, 
+            "duration": 1471, 
+            "seq": 46, 
+            "title": "\u548c\u8c10\u793e\u4f1a\u7684\u63d0\u51fa", 
+            "video_id": 2068
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2058, 
+            "seq": 47, 
+            "title": "\u6784\u5efa\u548c\u8c10\u793e\u4f1a\u7684\u73b0\u5b9e\u4f9d\u636e\u53ca\u610f\u4e49", 
+            "video_id": 2069
+          }, 
+          {
+            "chp": 5, 
+            "duration": 1232, 
+            "seq": 48, 
+            "title": "\u6784\u5efa\u548c\u8c10\u793e\u4f1a\u7684\u603b\u4f53\u601d\u8def", 
+            "video_id": 2070
+          }, 
+          {
+            "chp": 5, 
+            "duration": 3225, 
+            "seq": 49, 
+            "title": "\u63a8\u8fdb\u4ee5\u6539\u5584\u6c11\u751f\u4e3a\u4e3b\u7684\u793e\u4f1a\u5efa\u8bbe", 
+            "video_id": 2071
+          }, 
+          {
+            "chp": 5, 
+            "duration": 890, 
+            "seq": 50, 
+            "title": "\u548c\u5e73\u4e0e\u53d1\u5c55\u662f\u65f6\u4ee3\u4e3b\u9898", 
+            "video_id": 2072
+          }
+        ], 
+        [
+          {
+            "chp": 6, 
+            "duration": 1459, 
+            "seq": 51, 
+            "title": "\u653f\u6cbb\u591a\u6781\u5316\u4e0e\u7ecf\u6d4e\u5168\u7403\u5316", 
+            "video_id": 2073
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2586, 
+            "seq": 52, 
+            "title": "\u548c\u5e73\u53d1\u5c55\u9053\u8def", 
+            "video_id": 2074
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2073, 
+            "seq": 53, 
+            "title": "\u6e2f\u6fb3\u53f0\u95ee\u9898\u7684\u7531\u6765", 
+            "video_id": 2075
+          }, 
+          {
+            "chp": 6, 
+            "duration": 1199, 
+            "seq": 54, 
+            "title": "\u5bf9\u53f0\u653f\u7b56\u7684\u6f14\u53d8", 
+            "video_id": 2076
+          }, 
+          {
+            "chp": 6, 
+            "duration": 174, 
+            "seq": 55, 
+            "title": "\u201c\u4e00\u56fd\u4e24\u5236\u201d\u7684\u5185\u6db5\u53ca\u610f\u4e49", 
+            "video_id": 2077
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2692, 
+            "seq": 56, 
+            "title": "\u4e2d\u56fd\u7279\u8272\u793e\u4f1a\u4e3b\u4e49\u4e8b\u4e1a\u5efa\u8bbe\u7684\u57fa\u672c\u529b\u91cf", 
+            "video_id": 2078
+          }
+        ], 
+        [
+          {
+            "chp": 7, 
+            "duration": 983, 
+            "seq": 57, 
+            "title": "\u65b0\u7684\u793e\u4f1a\u9636\u5c42", 
+            "video_id": 2079
+          }, 
+          {
+            "chp": 7, 
+            "duration": 812, 
+            "seq": 58, 
+            "title": "\u5de9\u56fa\u548c\u52a0\u5f3a\u5404\u6c11\u65cf\u7684\u56e2\u7ed3\u5408\u4f5c", 
+            "video_id": 2080
+          }, 
+          {
+            "chp": 7, 
+            "duration": 509, 
+            "seq": 59, 
+            "title": "\u5de9\u56fa\u548c\u53d1\u5c55\u7231\u56fd\u7edf\u4e00\u6218\u7ebf", 
+            "video_id": 2081
+          }, 
+          {
+            "chp": 7, 
+            "duration": 623, 
+            "seq": 60, 
+            "title": "\u515a\u7684\u9886\u5bfc\u662f\u793e\u4f1a\u4e3b\u4e49\u5efa\u8bbe\u7684\u4fdd\u8bc1", 
+            "video_id": 2082
+          }
+        ], 
+        [
+          {
+            "chp": 8, 
+            "duration": 1270, 
+            "seq": 61, 
+            "title": "\u7acb\u515a\u4e3a\u516c\u3001\u6267\u653f\u4e3a\u6c11", 
+            "video_id": 2083
+          }, 
+          {
+            "chp": 8, 
+            "duration": 1993, 
+            "seq": 62, 
+            "title": "\u52a0\u5f3a\u515a\u7684\u5efa\u8bbe", 
+            "video_id": 2084
+          }, 
+          {
+            "chp": 8, 
+            "duration": 987, 
+            "seq": 63, 
+            "title": "\u603b\u590d\u4e60", 
+            "video_id": 2085
+          }
+        ]
+      ]
+    }, 
+    {
+      "course_code": "0000", 
+      "course_id": 1024, 
+      "etitle": "distance learning 101", 
+      "progress": {
+        "c_ar": 0.1, 
+        "c_ur": 0.118, 
+        "course_id": 1024, 
+        "video_list": [
+          {
+            "time": 2972, 
+            "v_ar": 1, 
+            "v_ur": 0.9887, 
+            "video_id": 2433
+          }
+        ]
+      }, 
+      "seq": 1, 
+      "title": "\u8fdc\u7a0b\u6559\u80b2\u5b66\u4e60\u5b66", 
+      "video_count": 10, 
+      "video_list": [
+        [
+          {
+            "chp": 1, 
+            "duration": 3006, 
+            "seq": 1, 
+            "title": "\u7b2c01\u8bb2", 
+            "video_id": 2433
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2500, 
+            "seq": 2, 
+            "title": "\u7b2c02\u8bb2", 
+            "video_id": 2434
+          }, 
+          {
+            "chp": 1, 
+            "duration": 1968, 
+            "seq": 3, 
+            "title": "\u7b2c03\u8bb2", 
+            "video_id": 2435
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2101, 
+            "seq": 4, 
+            "title": "\u7b2c04\u8bb2", 
+            "video_id": 2436
+          }, 
+          {
+            "chp": 1, 
+            "duration": 639, 
+            "seq": 5, 
+            "title": "\u7b2c05\u8bb2", 
+            "video_id": 2437
+          }, 
+          {
+            "chp": 1, 
+            "duration": 4441, 
+            "seq": 6, 
+            "title": "\u7b2c06\u8bb2", 
+            "video_id": 2438
+          }
+        ], 
+        [
+          {
+            "chp": 2, 
+            "duration": 2983, 
+            "seq": 7, 
+            "title": "\u7b2c07\u8bb2", 
+            "video_id": 2439
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2113, 
+            "seq": 8, 
+            "title": "\u7b2c08\u8bb2", 
+            "video_id": 2440
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2994, 
+            "seq": 9, 
+            "title": "\u7b2c09\u8bb2", 
+            "video_id": 2441
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2444, 
+            "seq": 10, 
+            "title": "\u7b2c10\u8bb2", 
+            "video_id": 2442
+          }
+        ]
+      ]
+    }, 
+    {
+      "course_code": "JS001", 
+      "course_id": 171, 
+      "etitle": "computer fundamentals", 
+      "progress": {
+        "c_ar": 1.0, 
+        "c_ur": 2.9432, 
+        "course_id": 171, 
+        "video_list": [
+          {
+            "time": 3218, 
+            "v_ar": 1, 
+            "v_ur": 2.1612, 
+            "video_id": 28114
+          }, 
+          {
+            "time": 2923, 
+            "v_ar": 1, 
+            "v_ur": 2.8296, 
+            "video_id": 28113
+          }, 
+          {
+            "time": 7077, 
+            "v_ar": 1, 
+            "v_ur": 4.3929, 
+            "video_id": 28112
+          }, 
+          {
+            "time": 6648, 
+            "v_ar": 1, 
+            "v_ur": 3.0, 
+            "video_id": 28095
+          }, 
+          {
+            "time": 1604, 
+            "v_ar": 1, 
+            "v_ur": 1.9975, 
+            "video_id": 28097
+          }, 
+          {
+            "time": 2883, 
+            "v_ar": 1, 
+            "v_ur": 3.0, 
+            "video_id": 28096
+          }, 
+          {
+            "time": 847, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 28100
+          }, 
+          {
+            "time": 9845, 
+            "v_ar": 1, 
+            "v_ur": 5.0, 
+            "video_id": 28111
+          }, 
+          {
+            "time": 5632, 
+            "v_ar": 1, 
+            "v_ur": 5.2784, 
+            "video_id": 28110
+          }, 
+          {
+            "time": 1358, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 28103
+          }, 
+          {
+            "time": 3048, 
+            "v_ar": 1, 
+            "v_ur": 2.082, 
+            "video_id": 28102
+          }, 
+          {
+            "time": 3240, 
+            "v_ar": 1, 
+            "v_ur": 4.0248, 
+            "video_id": 28105
+          }, 
+          {
+            "time": 4820, 
+            "v_ar": 1, 
+            "v_ur": 3.9219, 
+            "video_id": 28108
+          }, 
+          {
+            "time": 1797, 
+            "v_ar": 1, 
+            "v_ur": 3.0202, 
+            "video_id": 28106
+          }, 
+          {
+            "time": 6648, 
+            "v_ar": 1, 
+            "v_ur": 3.0, 
+            "video_id": 28118
+          }, 
+          {
+            "time": 1390, 
+            "v_ar": 1, 
+            "v_ur": 2.0029, 
+            "video_id": 28116
+          }, 
+          {
+            "time": 1373, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 28115
+          }, 
+          {
+            "time": 2343, 
+            "v_ar": 1, 
+            "v_ur": 3.0, 
+            "video_id": 28101
+          }, 
+          {
+            "time": 1776, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 28099
+          }, 
+          {
+            "time": 733, 
+            "v_ar": 1, 
+            "v_ur": 0.9986, 
+            "video_id": 28098
+          }, 
+          {
+            "time": 1839, 
+            "v_ar": 1, 
+            "v_ur": 3.1872, 
+            "video_id": 28109
+          }, 
+          {
+            "time": 3229, 
+            "v_ar": 1, 
+            "v_ur": 2.9981, 
+            "video_id": 28094
+          }, 
+          {
+            "time": 7105, 
+            "v_ar": 1, 
+            "v_ur": 6.0417, 
+            "video_id": 28107
+          }, 
+          {
+            "time": 4254, 
+            "v_ar": 1, 
+            "v_ur": 3.0, 
+            "video_id": 28117
+          }, 
+          {
+            "time": 2262, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 28091
+          }, 
+          {
+            "time": 584, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 28093
+          }, 
+          {
+            "time": 1244, 
+            "v_ar": 1, 
+            "v_ur": 1.9968, 
+            "video_id": 28090
+          }, 
+          {
+            "time": 2553, 
+            "v_ar": 1, 
+            "v_ur": 1.9992, 
+            "video_id": 28092
+          }, 
+          {
+            "time": 147, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 28089
+          }, 
+          {
+            "time": 7263, 
+            "v_ar": 1, 
+            "v_ur": 3.02, 
+            "video_id": 28104
+          }
+        ]
+      }, 
+      "seq": 2, 
+      "title": "\u8ba1\u7b97\u673a\u53ca\u7f51\u7edc\u5e94\u7528\u57fa\u7840", 
+      "video_count": 30, 
+      "video_list": [
+        [
+          {
+            "chp": 1, 
+            "duration": 147, 
+            "seq": 1, 
+            "title": "\u8bfe\u7a0b\u4ecb\u7ecd", 
+            "video_id": 28089
+          }, 
+          {
+            "chp": 1, 
+            "duration": 623, 
+            "seq": 2, 
+            "title": "\u8ba1\u7b97\u673a\u7f51\u7edc\u7684\u57fa\u672c\u6982\u5ff5", 
+            "video_id": 28090
+          }, 
+          {
+            "chp": 1, 
+            "duration": 1131, 
+            "seq": 3, 
+            "title": "\u8ba1\u7b97\u673a\u7f51\u7edc\u7684\u4ea7\u751f\u4e0e\u53d1\u5c55", 
+            "video_id": 28091
+          }, 
+          {
+            "chp": 1, 
+            "duration": 1277, 
+            "seq": 4, 
+            "title": "\u8ba1\u7b97\u673a\u7f51\u7edc\u7684\u57fa\u672c\u7ec4\u6210\u548c\u62d3\u6251\u7ed3\u6784", 
+            "video_id": 28092
+          }, 
+          {
+            "chp": 1, 
+            "duration": 584, 
+            "seq": 5, 
+            "title": "\u8ba1\u7b97\u673a\u7f51\u7edc\u7684\u5206\u7c7b", 
+            "video_id": 28093
+          }, 
+          {
+            "chp": 1, 
+            "duration": 1077, 
+            "seq": 6, 
+            "title": "\u7f51\u7edc\u4f53\u7cfb\u7ed3\u6784", 
+            "video_id": 28094
+          }
+        ], 
+        [
+          {
+            "chp": 2, 
+            "duration": 2216, 
+            "seq": 7, 
+            "title": "OSI\u53c2\u8003\u6a21\u578b", 
+            "video_id": 28095
+          }, 
+          {
+            "chp": 2, 
+            "duration": 961, 
+            "seq": 8, 
+            "title": "TCP/IP\u53c2\u8003\u6a21\u578b", 
+            "video_id": 28096
+          }, 
+          {
+            "chp": 2, 
+            "duration": 803, 
+            "seq": 9, 
+            "title": "OSI\u53c2\u8003\u6a21\u578b\u4e0eTCP/IP\u53c2\u8003\u6a21\u578b\u7684\u6bd4\u8f83\u548c\u5fae\u8f6f\u516c\u53f8\u4f7f\u7528\u7684\u7f51\u7edc\u534f\u8bae", 
+            "video_id": 28097
+          }
+        ], 
+        [
+          {
+            "chp": 3, 
+            "duration": 734, 
+            "seq": 10, 
+            "title": "\u6570\u636e\u901a\u4fe1\u7684\u57fa\u672c\u6982\u5ff5", 
+            "video_id": 28098
+          }, 
+          {
+            "chp": 3, 
+            "duration": 888, 
+            "seq": 11, 
+            "title": "\u6570\u636e\u901a\u4fe1\u65b9\u5f0f", 
+            "video_id": 28099
+          }, 
+          {
+            "chp": 3, 
+            "duration": 847, 
+            "seq": 12, 
+            "title": "\u4f20\u8f93\u4ecb\u8d28", 
+            "video_id": 28100
+          }
+        ], 
+        [
+          {
+            "chp": 4, 
+            "duration": 781, 
+            "seq": 13, 
+            "title": "\u6570\u636e\u7f51\u7b80\u4ecb", 
+            "video_id": 28101
+          }, 
+          {
+            "chp": 4, 
+            "duration": 1464, 
+            "seq": 14, 
+            "title": "\u5c40\u57df\u7f51\u6982\u8ff0", 
+            "video_id": 28102
+          }, 
+          {
+            "chp": 4, 
+            "duration": 679, 
+            "seq": 15, 
+            "title": "\u5c40\u57df\u7f51\u4f53\u7cfb\u7ed3\u6784\u4e0eIEEE 802\u6807\u51c6\u548c\u4ee5\u592a\u7f51", 
+            "video_id": 28103
+          }
+        ], 
+        [
+          {
+            "chp": 5, 
+            "duration": 2405, 
+            "seq": 16, 
+            "title": "\u9ad8\u901f\uff0c\u4ea4\u6362\uff0c\u865a\u62df\u548c\u65e0\u7ebf\u5c40\u57df\u7f51", 
+            "video_id": 28104
+          }, 
+          {
+            "chp": 5, 
+            "duration": 805, 
+            "seq": 17, 
+            "title": "\u5c40\u57df\u7f51\u7684\u7ec4\u6210", 
+            "video_id": 28105
+          }, 
+          {
+            "chp": 5, 
+            "duration": 595, 
+            "seq": 18, 
+            "title": "\u5c40\u57df\u7f51\u7ec4\u7f51\u8bbe\u5907", 
+            "video_id": 28106
+          }
+        ], 
+        [
+          {
+            "chp": 6, 
+            "duration": 1176, 
+            "seq": 19, 
+            "title": "\u7f51\u7edc\u64cd\u4f5c\u7cfb\u7edf", 
+            "video_id": 28107
+          }, 
+          {
+            "chp": 6, 
+            "duration": 1229, 
+            "seq": 20, 
+            "title": "\u5c40\u57df\u7f51\u7ec4\u7f51\u65b9\u6cd5\u4e3e\u4f8b", 
+            "video_id": 28108
+          }, 
+          {
+            "chp": 6, 
+            "duration": 577, 
+            "seq": 21, 
+            "title": "\u7f51\u7edc\u4e92\u8054\u6982\u8ff0\u4e0e\u5c40\u57df\u7f51\u4e92\u8054", 
+            "video_id": 28109
+          }, 
+          {
+            "chp": 6, 
+            "duration": 1067, 
+            "seq": 22, 
+            "title": "\u5c40\u57df\u7f51\u4e92\u8054", 
+            "video_id": 28110
+          }, 
+          {
+            "chp": 6, 
+            "duration": 1969, 
+            "seq": 23, 
+            "title": "\u5c40\u57df\u7f51\u4e0e\u5e7f\u57df\u7f51\u4e92\u8054\u3001\u5e7f\u57df\u7f51\u4e92\u8054", 
+            "video_id": 28111
+          }
+        ], 
+        [
+          {
+            "chp": 7, 
+            "duration": 1611, 
+            "seq": 24, 
+            "title": "Internet\u7684\u57fa\u672c\u6982\u5ff5\u3001Internet\u7684\u56fd\u9645\u56fd\u5185\u53d1\u5c55\u5386\u53f2", 
+            "video_id": 28112
+          }, 
+          {
+            "chp": 7, 
+            "duration": 1033, 
+            "seq": 25, 
+            "title": "Internet\u7684\u4e3b\u8981\u529f\u80fd\u548c\u670d\u52a1\u3001Internet\u7684\u7269\u7406\u7ed3\u6784\u4e0e\u5de5\u4f5c\u6a21\u5f0f", 
+            "video_id": 28113
+          }, 
+          {
+            "chp": 7, 
+            "duration": 1489, 
+            "seq": 26, 
+            "title": "Internet\u5730\u5740", 
+            "video_id": 28114
+          }, 
+          {
+            "chp": 7, 
+            "duration": 1373, 
+            "seq": 27, 
+            "title": "\u63a5\u5165Internet\u7684\u57fa\u672c\u65b9\u5f0f\u3001\u63a5\u5165Internet\u7684\u57fa\u672c\u539f\u7406", 
+            "video_id": 28115
+          }, 
+          {
+            "chp": 7, 
+            "duration": 694, 
+            "seq": 28, 
+            "title": "\u62e8\u53f7\u4e0a\u7f51\u3001\u63a5\u5165Internet\u7684\u57fa\u672c\u539f\u7406", 
+            "video_id": 28116
+          }, 
+          {
+            "chp": 7, 
+            "duration": 1418, 
+            "seq": 29, 
+            "title": "\u7f51\u7edc\u8fde\u63a5\u6d4b\u8bd5\u3001\u7f51\u5361\u7269\u7406\u5730\u5740", 
+            "video_id": 28117
+          }
+        ], 
+        [
+          {
+            "chp": 8, 
+            "duration": 2216, 
+            "seq": 30, 
+            "title": "\u603b\u590d\u4e60", 
+            "video_id": 28118
+          }
+        ]
+      ]
+    }, 
+    {
+      "course_code": "GX001.2", 
+      "course_id": 162, 
+      "etitle": "english (II)", 
+      "progress": {
+        "c_ar": 0.8163, 
+        "c_ur": 0.6256, 
+        "course_id": 162, 
+        "video_list": [
+          {
+            "time": 3720, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 3873
+          }, 
+          {
+            "time": 1801, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 3855
+          }, 
+          {
+            "time": 2702, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 3867
+          }, 
+          {
+            "time": 847, 
+            "v_ar": 1, 
+            "v_ur": 1.0012, 
+            "video_id": 3897
+          }, 
+          {
+            "time": 1869, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 3879
+          }, 
+          {
+            "time": 2400, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 3861
+          }, 
+          {
+            "time": 2767, 
+            "v_ar": 1, 
+            "v_ur": 1.6649, 
+            "video_id": 3891
+          }, 
+          {
+            "time": 1302, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 3865
+          }, 
+          {
+            "time": 1459, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 3889
+          }, 
+          {
+            "time": 766, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 3859
+          }, 
+          {
+            "time": 778, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 3853
+          }, 
+          {
+            "time": 2769, 
+            "v_ar": 1, 
+            "v_ur": 3.0, 
+            "video_id": 3877
+          }, 
+          {
+            "time": 3059, 
+            "v_ar": 1, 
+            "v_ur": 2.0007, 
+            "video_id": 3895
+          }, 
+          {
+            "time": 567, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 3871
+          }, 
+          {
+            "time": 517, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 3863
+          }, 
+          {
+            "time": 1488, 
+            "v_ar": 1, 
+            "v_ur": 3.0, 
+            "video_id": 3857
+          }, 
+          {
+            "time": 3384, 
+            "v_ar": 1, 
+            "v_ur": 4.0, 
+            "video_id": 3875
+          }, 
+          {
+            "time": 1821, 
+            "v_ar": 1, 
+            "v_ur": 3.0, 
+            "video_id": 3881
+          }, 
+          {
+            "time": 1402, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 3869
+          }, 
+          {
+            "time": 903, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 3899
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 3878
+          }, 
+          {
+            "time": 3526, 
+            "v_ar": 1, 
+            "v_ur": 0.5334, 
+            "video_id": 3854
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 3896
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 3872
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 3860
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 3882
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 3900
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 3858
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 3864
+          }, 
+          {
+            "time": 2910, 
+            "v_ar": 1, 
+            "v_ur": 0.6467, 
+            "video_id": 3870
+          }, 
+          {
+            "time": 6272, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 3894
+          }, 
+          {
+            "time": 0, 
+            "v_ar": 1, 
+            "v_ur": 0.0, 
+            "video_id": 3876
+          }, 
+          {
+            "time": 4443, 
+            "v_ar": 1, 
+            "v_ur": 3.0, 
+            "video_id": 3862
+          }, 
+          {
+            "time": 1603, 
+            "v_ar": 1, 
+            "v_ur": 1.0006, 
+            "video_id": 3892
+          }, 
+          {
+            "time": 4533, 
+            "v_ar": 1, 
+            "v_ur": 2.0004, 
+            "video_id": 3898
+          }, 
+          {
+            "time": 1776, 
+            "v_ar": 1, 
+            "v_ur": 2.0993, 
+            "video_id": 3874
+          }, 
+          {
+            "time": 4688, 
+            "v_ar": 1, 
+            "v_ur": 4.0034, 
+            "video_id": 3880
+          }, 
+          {
+            "time": 2436, 
+            "v_ar": 1, 
+            "v_ur": 2.0016, 
+            "video_id": 3868
+          }, 
+          {
+            "time": 4280, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 3856
+          }, 
+          {
+            "time": 4171, 
+            "v_ar": 1, 
+            "v_ur": 1.9995, 
+            "video_id": 3852
+          }
+        ]
+      }, 
+      "seq": 3, 
+      "title": "\u82f1\u8bed(\u4e8c)", 
+      "video_count": 49, 
+      "video_list": [
+        [
+          {
+            "chp": 1, 
+            "duration": 2086, 
+            "seq": 1, 
+            "title": "\u8bfe\u7a0b\u7b80\u4ecb", 
+            "video_id": 3852
+          }, 
+          {
+            "chp": 1, 
+            "duration": 389, 
+            "seq": 2, 
+            "title": "Listening and Speaking: Introducing Your Hobbies \u4ecb\u7ecd\u81ea\u5df1\u7684\u5174\u8da3\u7231\u597d", 
+            "video_id": 3853
+          }, 
+          {
+            "chp": 1, 
+            "duration": 6611, 
+            "seq": 3, 
+            "title": "Text A: Collecting\u2014A Serious Hobby \u6536\u85cf\u2014\u2014\u4e00\u79cd\u4e25\u8083\u7684\u7231\u597d", 
+            "video_id": 3854
+          }, 
+          {
+            "chp": 1, 
+            "duration": 1801, 
+            "seq": 4, 
+            "title": "Grammar: \u4e00\u822c\u73b0\u5728\u65f6", 
+            "video_id": 3855
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2140, 
+            "seq": 5, 
+            "title": "Writing: \u8854\u63a5\u4e0e\u8fde\u8d2f", 
+            "video_id": 3856
+          }
+        ], 
+        [
+          {
+            "chp": 2, 
+            "duration": 496, 
+            "seq": 6, 
+            "title": "Reading Skills: \u82f1\u8bed\u8bcd\u7684\u5185\u6db5\u548c\u5916\u5ef6\uff081\uff09", 
+            "video_id": 3857
+          }, 
+          {
+            "chp": 2, 
+            "duration": 4448, 
+            "seq": 7, 
+            "title": "Text B: Life in A Violin Case \u60c5\u7cfb\u5c0f\u63d0\u7434", 
+            "video_id": 3858
+          }, 
+          {
+            "chp": 2, 
+            "duration": 766, 
+            "seq": 8, 
+            "title": "Listening and Speaking: Inquiring about Suggestions \u8be2\u95ee\u610f\u89c1", 
+            "video_id": 3859
+          }, 
+          {
+            "chp": 2, 
+            "duration": 6826, 
+            "seq": 9, 
+            "title": "Text A: Technology in the Classrooms \u6559\u5ba4\u91cc\u7684\u79d1\u6280", 
+            "video_id": 3860
+          }
+        ], 
+        [
+          {
+            "chp": 3, 
+            "duration": 1200, 
+            "seq": 10, 
+            "title": "Grammar: \u73b0\u5728\u8fdb\u884c\u65f6", 
+            "video_id": 3861
+          }, 
+          {
+            "chp": 3, 
+            "duration": 1481, 
+            "seq": 11, 
+            "title": "Writing: \u6bb5\u843d\u53d1\u5c55\uff1a\u4e3e\u4f8b\u6cd5", 
+            "video_id": 3862
+          }, 
+          {
+            "chp": 3, 
+            "duration": 517, 
+            "seq": 12, 
+            "title": "Reading Skills: \u82f1\u8bed\u53e5\u5b50\u7684\u5185\u6db5\u548c\u5916\u5ef6\uff082\uff09", 
+            "video_id": 3863
+          }, 
+          {
+            "chp": 3, 
+            "duration": 4517, 
+            "seq": 13, 
+            "title": "Text B: Taking Notes at Lectures \u5982\u4f55\u5728\u8bfe\u5802\u4e0a\u505a\u7b14\u8bb0", 
+            "video_id": 3864
+          }, 
+          {
+            "chp": 3, 
+            "duration": 651, 
+            "seq": 14, 
+            "title": "Listening and Speaking: Expressing Complaints \u8868\u8fbe\u81ea\u5df1\u7684\u4e0d\u6ee1", 
+            "video_id": 3865
+          }, 
+          {
+            "chp": 3, 
+            "duration": 7384, 
+            "seq": 15, 
+            "title": "Text A: Charles Chaplin's Story \u67e5\u5c14\u65af\u00b7\u5353\u522b\u6797\u7684\u6545\u4e8b", 
+            "video_id": 3866
+          }
+        ], 
+        [
+          {
+            "chp": 4, 
+            "duration": 1351, 
+            "seq": 16, 
+            "title": "Grammar: \u4e00\u822c\u8fc7\u53bb\u65f6", 
+            "video_id": 3867
+          }, 
+          {
+            "chp": 4, 
+            "duration": 1217, 
+            "seq": 17, 
+            "title": "Writing: \u6bb5\u843d\u53d1\u5c55\uff1a\u6bd4\u8f83\u4e0e\u5bf9\u6bd4", 
+            "video_id": 3868
+          }, 
+          {
+            "chp": 4, 
+            "duration": 1402, 
+            "seq": 18, 
+            "title": "Reading Skills: \u8fa8\u6790\u4f5c\u8005\u7684\u89c2\u70b9", 
+            "video_id": 3869
+          }, 
+          {
+            "chp": 4, 
+            "duration": 4500, 
+            "seq": 19, 
+            "title": "Text B: The Edison Effect \u7231\u8fea\u751f\u6548\u5e94", 
+            "video_id": 3870
+          }, 
+          {
+            "chp": 4, 
+            "duration": 567, 
+            "seq": 20, 
+            "title": "Listening and Speaking: Reserving a Hotel \u9884\u5b9a\u5bbe\u9986", 
+            "video_id": 3871
+          }, 
+          {
+            "chp": 4, 
+            "duration": 4316, 
+            "seq": 21, 
+            "title": "Text A: On Going a Journey \u8bba\u65c5\u884c", 
+            "video_id": 3872
+          }
+        ], 
+        [
+          {
+            "chp": 5, 
+            "duration": 1860, 
+            "seq": 22, 
+            "title": "Grammar: \u4e00\u822c\u5c06\u6765\u65f6", 
+            "video_id": 3873
+          }, 
+          {
+            "chp": 5, 
+            "duration": 846, 
+            "seq": 23, 
+            "title": "Writing: \u6bb5\u843d\u53d1\u5c55\uff1a\u5206\u7c7b\u6cd5", 
+            "video_id": 3874
+          }, 
+          {
+            "chp": 5, 
+            "duration": 846, 
+            "seq": 24, 
+            "title": "Reading Skills: \u8fa8\u6790\u4e8b\u5b9e\u4e0e\u89c2\u70b9\uff081\uff09", 
+            "video_id": 3875
+          }, 
+          {
+            "chp": 5, 
+            "duration": 6020, 
+            "seq": 25, 
+            "title": "Text B: Wheels Around The World \u81ea\u884c\u8f66\u73af\u7403\u68a6", 
+            "video_id": 3876
+          }, 
+          {
+            "chp": 5, 
+            "duration": 923, 
+            "seq": 26, 
+            "title": "Listening and Speaking: Likes and Dislikes \u559c\u597d\u4e0e\u538c\u6076", 
+            "video_id": 3877
+          }, 
+          {
+            "chp": 5, 
+            "duration": 6022, 
+            "seq": 27, 
+            "title": "Text A: Act Green \u7eff\u8272\u884c\u52a8", 
+            "video_id": 3878
+          }
+        ], 
+        [
+          {
+            "chp": 6, 
+            "duration": 1869, 
+            "seq": 28, 
+            "title": "Grammar: \u73b0\u5728\u5b8c\u6210\u65f6", 
+            "video_id": 3879
+          }, 
+          {
+            "chp": 6, 
+            "duration": 1171, 
+            "seq": 29, 
+            "title": "Writing: \u6bb5\u843d\u53d1\u5c55\uff1a\u56e0\u679c\u6cd5", 
+            "video_id": 3880
+          }, 
+          {
+            "chp": 6, 
+            "duration": 607, 
+            "seq": 30, 
+            "title": "Reading Skills: \u8fa8\u6790\u4e8b\u5b9e\u4e0e\u89c2\u70b9\uff082\uff09", 
+            "video_id": 3881
+          }, 
+          {
+            "chp": 6, 
+            "duration": 5123, 
+            "seq": 31, 
+            "title": "Text B: Finding Your True Eco-Paradise \u5bfb\u627e\u4f60\u7684\u751f\u6001\u65c5\u6e38\u5929\u5802", 
+            "video_id": 3882
+          }, 
+          {
+            "chp": 6, 
+            "duration": 845, 
+            "seq": 32, 
+            "title": "Listening and Speaking: Making an Invitation \u9080\u8bf7", 
+            "video_id": 3883
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2702, 
+            "seq": 33, 
+            "title": "Text A: Experts on Reading Wonder:\"Is the Internet Friend or Foe? \" \u9605\u8bfb\u4e13\u5bb6\u4e0d\u89e3\uff1a\u201c\u4e92\u8054\u7f51\u7a76\u7adf\u662f\u670b\u53cb\u8fd8\u662f\u654c\u4eba\uff1f\u201d", 
+            "video_id": 3884
+          }
+        ], 
+        [
+          {
+            "chp": 7, 
+            "duration": 1817, 
+            "seq": 34, 
+            "title": "Grammar: \u73b0\u5728\u5b8c\u6210\u8fdb\u884c\u65f6", 
+            "video_id": 3885
+          }, 
+          {
+            "chp": 7, 
+            "duration": 1442, 
+            "seq": 35, 
+            "title": "Writing: \u6bb5\u843d\u53d1\u5c55\uff1a\u5b9a\u4e49\u6cd5", 
+            "video_id": 3886
+          }, 
+          {
+            "chp": 7, 
+            "duration": 945, 
+            "seq": 36, 
+            "title": "Reading Skills: \u8fa8\u6790\u6bd4\u55bb", 
+            "video_id": 3887
+          }, 
+          {
+            "chp": 7, 
+            "duration": 4373, 
+            "seq": 37, 
+            "title": "Text B: Twitter,Email,Texts:We Don't Talk Any More! \u63a8\u7279\uff0c\u7535\u90ae\u548c\u77ed\u4fe1\u4f7f\u6211\u4eec\u518d\u4e5f\u4e0d\u4ea4\u8c08\u4e86\uff01", 
+            "video_id": 3888
+          }, 
+          {
+            "chp": 7, 
+            "duration": 1459, 
+            "seq": 38, 
+            "title": "Listening and Speaking: Expressing Praises and Thanks \u8868\u8fbe\u79f0\u8d5e\u548c\u9053\u8c22", 
+            "video_id": 3889
+          }, 
+          {
+            "chp": 7, 
+            "duration": 6321, 
+            "seq": 39, 
+            "title": "Text A: Ladies First \u5973\u58eb\u4f18\u5148", 
+            "video_id": 3890
+          }
+        ], 
+        [
+          {
+            "chp": 8, 
+            "duration": 1662, 
+            "seq": 40, 
+            "title": "Grammar: \u8fc7\u53bb\u5b8c\u6210\u65f6", 
+            "video_id": 3891
+          }, 
+          {
+            "chp": 8, 
+            "duration": 1602, 
+            "seq": 41, 
+            "title": "Writing: \u6bb5\u843d\u53d1\u5c55\uff1a\u4ece\u4e00\u822c\u5230\u5177\u4f53", 
+            "video_id": 3892
+          }, 
+          {
+            "chp": 8, 
+            "duration": 799, 
+            "seq": 42, 
+            "title": "Reading Skills: \u8fa8\u6790\u6210\u8bed\u3001\u60ef\u7528\u8bed\uff081\uff09", 
+            "video_id": 3893
+          }, 
+          {
+            "chp": 8, 
+            "duration": 3136, 
+            "seq": 43, 
+            "title": "Text B: Tipping in the West \u201c\u5c0f\u8d39\u201d \u5728\u897f\u65b9", 
+            "video_id": 3894
+          }, 
+          {
+            "chp": 8, 
+            "duration": 1529, 
+            "seq": 44, 
+            "title": "Listening and Speaking: Making Telephone Calls \u6253\u7535\u8bdd", 
+            "video_id": 3895
+          }, 
+          {
+            "chp": 8, 
+            "duration": 5829, 
+            "seq": 45, 
+            "title": "Text A: Holiday Eating \u2014 Food for Thought \u5927\u9971\u53e3\u798f\uff0c\u83ab\u5fd8\u5065\u5eb7", 
+            "video_id": 3896
+          }
+        ], 
+        [
+          {
+            "chp": 9, 
+            "duration": 846, 
+            "seq": 46, 
+            "title": "Grammar: \u5c06\u6765\u5b8c\u6210\u65f6", 
+            "video_id": 3897
+          }, 
+          {
+            "chp": 9, 
+            "duration": 2266, 
+            "seq": 47, 
+            "title": "Writing: \u6bb5\u843d\u53d1\u5c55\uff1a\u4ece\u95ee\u9898\u5230\u89e3\u51b3\u529e\u6cd5", 
+            "video_id": 3898
+          }, 
+          {
+            "chp": 9, 
+            "duration": 903, 
+            "seq": 48, 
+            "title": "Reading Skills: \u8fa8\u6790\u6210\u8bed\u3001\u60ef\u7528\u8bed\uff082\uff09", 
+            "video_id": 3899
+          }, 
+          {
+            "chp": 9, 
+            "duration": 4582, 
+            "seq": 49, 
+            "title": "Text B: Holidays in Britain \u82f1\u56fd\u4eba\u7684\u5ea6\u5047\u4e60\u60ef", 
+            "video_id": 3900
+          }
+        ]
+      ]
+    }, 
+    {
+      "course_code": "ZJ011", 
+      "course_id": 68, 
+      "etitle": "advanced mathematics", 
+      "progress": {
+        "c_ar": 0.9518, 
+        "c_ur": 1.6838, 
+        "course_id": 68, 
+        "video_list": [
+          {
+            "time": 10108, 
+            "v_ar": 1, 
+            "v_ur": 4.0016, 
+            "video_id": 19661
+          }, 
+          {
+            "time": 6735, 
+            "v_ar": 1, 
+            "v_ur": 2.5377, 
+            "video_id": 19662
+          }, 
+          {
+            "time": 2463, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19663
+          }, 
+          {
+            "time": 6993, 
+            "v_ar": 1, 
+            "v_ur": 3.0, 
+            "video_id": 19664
+          }, 
+          {
+            "time": 12205, 
+            "v_ar": 1, 
+            "v_ur": 5.0, 
+            "video_id": 19665
+          }, 
+          {
+            "time": 12033, 
+            "v_ar": 1, 
+            "v_ur": 4.9992, 
+            "video_id": 19666
+          }, 
+          {
+            "time": 7419, 
+            "v_ar": 1, 
+            "v_ur": 2.9988, 
+            "video_id": 19667
+          }, 
+          {
+            "time": 7707, 
+            "v_ar": 1, 
+            "v_ur": 2.9988, 
+            "video_id": 19668
+          }, 
+          {
+            "time": 8035, 
+            "v_ar": 1, 
+            "v_ur": 2.9993, 
+            "video_id": 19669
+          }, 
+          {
+            "time": 4958, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 19671
+          }, 
+          {
+            "time": 7308, 
+            "v_ar": 1, 
+            "v_ur": 2.9988, 
+            "video_id": 19672
+          }, 
+          {
+            "time": 7761, 
+            "v_ar": 1, 
+            "v_ur": 2.9988, 
+            "video_id": 19673
+          }, 
+          {
+            "time": 7558, 
+            "v_ar": 1, 
+            "v_ur": 2.9992, 
+            "video_id": 19674
+          }, 
+          {
+            "time": 6961, 
+            "v_ar": 1, 
+            "v_ur": 2.9991, 
+            "video_id": 19675
+          }, 
+          {
+            "time": 5338, 
+            "v_ar": 1, 
+            "v_ur": 1.9993, 
+            "video_id": 19676
+          }, 
+          {
+            "time": 8241, 
+            "v_ar": 1, 
+            "v_ur": 2.9989, 
+            "video_id": 19677
+          }, 
+          {
+            "time": 5206, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 19678
+          }, 
+          {
+            "time": 5332, 
+            "v_ar": 1, 
+            "v_ur": 1.8915, 
+            "video_id": 19679
+          }, 
+          {
+            "time": 2389, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19680
+          }, 
+          {
+            "time": 8222, 
+            "v_ar": 1, 
+            "v_ur": 2.9996, 
+            "video_id": 19681
+          }, 
+          {
+            "time": 7883, 
+            "v_ar": 1, 
+            "v_ur": 2.9996, 
+            "video_id": 19682
+          }, 
+          {
+            "time": 9476, 
+            "v_ar": 1, 
+            "v_ur": 3.9983, 
+            "video_id": 19683
+          }, 
+          {
+            "time": 5238, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 19684
+          }, 
+          {
+            "time": 5286, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 19685
+          }, 
+          {
+            "time": 5232, 
+            "v_ar": 1, 
+            "v_ur": 1.9992, 
+            "video_id": 19686
+          }, 
+          {
+            "time": 2856, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19687
+          }, 
+          {
+            "time": 2570, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19688
+          }, 
+          {
+            "time": 3051, 
+            "v_ar": 1, 
+            "v_ur": 0.9997, 
+            "video_id": 19690
+          }, 
+          {
+            "time": 2849, 
+            "v_ar": 1, 
+            "v_ur": 1.0007, 
+            "video_id": 19691
+          }, 
+          {
+            "time": 2430, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19692
+          }, 
+          {
+            "time": 2299, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19693
+          }, 
+          {
+            "time": 4918, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 19695
+          }, 
+          {
+            "time": 2509, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19696
+          }, 
+          {
+            "time": 2798, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19697
+          }, 
+          {
+            "time": 2520, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19698
+          }, 
+          {
+            "time": 4004, 
+            "v_ar": 1, 
+            "v_ur": 1.4249, 
+            "video_id": 19700
+          }, 
+          {
+            "time": 2286, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19701
+          }, 
+          {
+            "time": 5032, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 19702
+          }, 
+          {
+            "time": 2721, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19703
+          }, 
+          {
+            "time": 2488, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19704
+          }, 
+          {
+            "time": 2706, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19705
+          }, 
+          {
+            "time": 2443, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19706
+          }, 
+          {
+            "time": 2510, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19707
+          }, 
+          {
+            "time": 2307, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19708
+          }, 
+          {
+            "time": 2620, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19709
+          }, 
+          {
+            "time": 5166, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 19710
+          }, 
+          {
+            "time": 2852, 
+            "v_ar": 1, 
+            "v_ur": 0.9993, 
+            "video_id": 19711
+          }, 
+          {
+            "time": 5257, 
+            "v_ar": 1, 
+            "v_ur": 2.0004, 
+            "video_id": 19712
+          }, 
+          {
+            "time": 5062, 
+            "v_ar": 1, 
+            "v_ur": 1.9992, 
+            "video_id": 19713
+          }, 
+          {
+            "time": 2429, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19714
+          }, 
+          {
+            "time": 2371, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19715
+          }, 
+          {
+            "time": 3813, 
+            "v_ar": 1, 
+            "v_ur": 1.4504, 
+            "video_id": 19716
+          }, 
+          {
+            "time": 2862, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19717
+          }, 
+          {
+            "time": 2610, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19718
+          }, 
+          {
+            "time": 4605, 
+            "v_ar": 1, 
+            "v_ur": 1.8288, 
+            "video_id": 19719
+          }, 
+          {
+            "time": 5024, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 19720
+          }, 
+          {
+            "time": 5616, 
+            "v_ar": 1, 
+            "v_ur": 1.9993, 
+            "video_id": 19721
+          }, 
+          {
+            "time": 5500, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 19722
+          }, 
+          {
+            "time": 2732, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19723
+          }, 
+          {
+            "time": 2742, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19724
+          }, 
+          {
+            "time": 5680, 
+            "v_ar": 1, 
+            "v_ur": 2.0007, 
+            "video_id": 19725
+          }, 
+          {
+            "time": 5084, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 19726
+          }, 
+          {
+            "time": 5594, 
+            "v_ar": 1, 
+            "v_ur": 1.9993, 
+            "video_id": 19727
+          }, 
+          {
+            "time": 2604, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19728
+          }, 
+          {
+            "time": 2827, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19729
+          }, 
+          {
+            "time": 2412, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19730
+          }, 
+          {
+            "time": 2769, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19731
+          }, 
+          {
+            "time": 2778, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19732
+          }, 
+          {
+            "time": 6812, 
+            "v_ar": 1, 
+            "v_ur": 2.5484, 
+            "video_id": 19733
+          }, 
+          {
+            "time": 2235, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19734
+          }, 
+          {
+            "time": 2496, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19735
+          }, 
+          {
+            "time": 6646, 
+            "v_ar": 1, 
+            "v_ur": 2.491, 
+            "video_id": 19736
+          }, 
+          {
+            "time": 2467, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19737
+          }, 
+          {
+            "time": 4936, 
+            "v_ar": 1, 
+            "v_ur": 2.0024, 
+            "video_id": 19738
+          }, 
+          {
+            "time": 2367, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19739
+          }, 
+          {
+            "time": 2295, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19740
+          }, 
+          {
+            "time": 2492, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19741
+          }, 
+          {
+            "time": 2844, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 19742
+          }, 
+          {
+            "time": 2614, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 19743
+          }
+        ]
+      }, 
+      "seq": 4, 
+      "title": "\u9ad8\u7b49\u6570\u5b66(\u4e13\u5347\u672c)", 
+      "video_count": 83, 
+      "video_list": [
+        [
+          {
+            "chp": 1, 
+            "duration": 2526, 
+            "seq": 1, 
+            "title": "\u7b2c01\u8bb2", 
+            "video_id": 19661
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2654, 
+            "seq": 2, 
+            "title": "\u7b2c02\u8bb2", 
+            "video_id": 19662
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2463, 
+            "seq": 3, 
+            "title": "\u7b2c03\u8bb2", 
+            "video_id": 19663
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2331, 
+            "seq": 4, 
+            "title": "\u7b2c04\u8bb2", 
+            "video_id": 19664
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2441, 
+            "seq": 5, 
+            "title": "\u7b2c05\u8bb2", 
+            "video_id": 19665
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2407, 
+            "seq": 6, 
+            "title": "\u7b2c06\u8bb2", 
+            "video_id": 19666
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2474, 
+            "seq": 7, 
+            "title": "\u7b2c07\u8bb2", 
+            "video_id": 19667
+          }
+        ], 
+        [
+          {
+            "chp": 2, 
+            "duration": 2570, 
+            "seq": 8, 
+            "title": "\u7b2c08\u8bb2", 
+            "video_id": 19668
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2679, 
+            "seq": 9, 
+            "title": "\u7b2c09\u8bb2", 
+            "video_id": 19669
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2484, 
+            "seq": 10, 
+            "title": "\u7b2c10\u8bb2", 
+            "video_id": 19670
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2479, 
+            "seq": 11, 
+            "title": "\u7b2c11\u8bb2", 
+            "video_id": 19671
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2437, 
+            "seq": 12, 
+            "title": "\u7b2c12\u8bb2", 
+            "video_id": 19672
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2588, 
+            "seq": 13, 
+            "title": "\u7b2c13\u8bb2", 
+            "video_id": 19673
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2520, 
+            "seq": 14, 
+            "title": "\u7b2c14\u8bb2", 
+            "video_id": 19674
+          }
+        ], 
+        [
+          {
+            "chp": 3, 
+            "duration": 2321, 
+            "seq": 15, 
+            "title": "\u7b2c15\u8bb2", 
+            "video_id": 19675
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2670, 
+            "seq": 16, 
+            "title": "\u7b2c16\u8bb2", 
+            "video_id": 19676
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2748, 
+            "seq": 17, 
+            "title": "\u7b2c17\u8bb2", 
+            "video_id": 19677
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2603, 
+            "seq": 18, 
+            "title": "\u7b2c18\u8bb2", 
+            "video_id": 19678
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2819, 
+            "seq": 19, 
+            "title": "\u7b2c19\u8bb2", 
+            "video_id": 19679
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2390, 
+            "seq": 20, 
+            "title": "\u7b2c20\u8bb2", 
+            "video_id": 19680
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2741, 
+            "seq": 21, 
+            "title": "\u7b2c21\u8bb2", 
+            "video_id": 19681
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2628, 
+            "seq": 22, 
+            "title": "\u7b2c22\u8bb2", 
+            "video_id": 19682
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2370, 
+            "seq": 23, 
+            "title": "\u7b2c23\u8bb2", 
+            "video_id": 19683
+          }
+        ], 
+        [
+          {
+            "chp": 4, 
+            "duration": 2619, 
+            "seq": 24, 
+            "title": "\u7b2c24\u8bb2", 
+            "video_id": 19684
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2643, 
+            "seq": 25, 
+            "title": "\u7b2c25\u8bb2", 
+            "video_id": 19685
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2617, 
+            "seq": 26, 
+            "title": "\u7b2c26\u8bb2", 
+            "video_id": 19686
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2856, 
+            "seq": 27, 
+            "title": "\u7b2c27\u8bb2", 
+            "video_id": 19687
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2570, 
+            "seq": 28, 
+            "title": "\u7b2c28\u8bb2", 
+            "video_id": 19688
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2497, 
+            "seq": 29, 
+            "title": "\u7b2c29\u8bb2", 
+            "video_id": 19689
+          }, 
+          {
+            "chp": 4, 
+            "duration": 3052, 
+            "seq": 30, 
+            "title": "\u7b2c30\u8bb2", 
+            "video_id": 19690
+          }
+        ], 
+        [
+          {
+            "chp": 5, 
+            "duration": 2847, 
+            "seq": 31, 
+            "title": "\u7b2c31\u8bb2", 
+            "video_id": 19691
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2430, 
+            "seq": 32, 
+            "title": "\u7b2c32\u8bb2", 
+            "video_id": 19692
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2299, 
+            "seq": 33, 
+            "title": "\u7b2c33\u8bb2", 
+            "video_id": 19693
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2502, 
+            "seq": 34, 
+            "title": "\u7b2c34\u8bb2", 
+            "video_id": 19694
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2459, 
+            "seq": 35, 
+            "title": "\u7b2c35\u8bb2", 
+            "video_id": 19695
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2510, 
+            "seq": 36, 
+            "title": "\u7b2c36\u8bb2", 
+            "video_id": 19696
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2798, 
+            "seq": 37, 
+            "title": "\u7b2c37\u8bb2", 
+            "video_id": 19697
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2520, 
+            "seq": 38, 
+            "title": "\u7b2c38\u8bb2", 
+            "video_id": 19698
+          }
+        ], 
+        [
+          {
+            "chp": 6, 
+            "duration": 2437, 
+            "seq": 39, 
+            "title": "\u7b2c39\u8bb2", 
+            "video_id": 19699
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2810, 
+            "seq": 40, 
+            "title": "\u7b2c40\u8bb2", 
+            "video_id": 19700
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2287, 
+            "seq": 41, 
+            "title": "\u7b2c41\u8bb2", 
+            "video_id": 19701
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2516, 
+            "seq": 42, 
+            "title": "\u7b2c42\u8bb2", 
+            "video_id": 19702
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2722, 
+            "seq": 43, 
+            "title": "\u7b2c43\u8bb2", 
+            "video_id": 19703
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2488, 
+            "seq": 44, 
+            "title": "\u7b2c44\u8bb2", 
+            "video_id": 19704
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2707, 
+            "seq": 45, 
+            "title": "\u7b2c45\u8bb2", 
+            "video_id": 19705
+          }
+        ], 
+        [
+          {
+            "chp": 7, 
+            "duration": 2443, 
+            "seq": 46, 
+            "title": "\u7b2c46\u8bb2", 
+            "video_id": 19706
+          }, 
+          {
+            "chp": 7, 
+            "duration": 2511, 
+            "seq": 47, 
+            "title": "\u7b2c47\u8bb2", 
+            "video_id": 19707
+          }, 
+          {
+            "chp": 7, 
+            "duration": 2307, 
+            "seq": 48, 
+            "title": "\u7b2c48\u8bb2", 
+            "video_id": 19708
+          }, 
+          {
+            "chp": 7, 
+            "duration": 2620, 
+            "seq": 49, 
+            "title": "\u7b2c49\u8bb2", 
+            "video_id": 19709
+          }, 
+          {
+            "chp": 7, 
+            "duration": 2583, 
+            "seq": 50, 
+            "title": "\u7b2c50\u8bb2", 
+            "video_id": 19710
+          }, 
+          {
+            "chp": 7, 
+            "duration": 2854, 
+            "seq": 51, 
+            "title": "\u7b2c51\u8bb2", 
+            "video_id": 19711
+          }
+        ], 
+        [
+          {
+            "chp": 8, 
+            "duration": 2628, 
+            "seq": 52, 
+            "title": "\u7b2c52\u8bb2", 
+            "video_id": 19712
+          }, 
+          {
+            "chp": 8, 
+            "duration": 2532, 
+            "seq": 53, 
+            "title": "\u7b2c53\u8bb2", 
+            "video_id": 19713
+          }, 
+          {
+            "chp": 8, 
+            "duration": 2429, 
+            "seq": 54, 
+            "title": "\u7b2c54\u8bb2", 
+            "video_id": 19714
+          }, 
+          {
+            "chp": 8, 
+            "duration": 2371, 
+            "seq": 55, 
+            "title": "\u7b2c55\u8bb2", 
+            "video_id": 19715
+          }, 
+          {
+            "chp": 8, 
+            "duration": 2629, 
+            "seq": 56, 
+            "title": "\u7b2c56\u8bb2", 
+            "video_id": 19716
+          }, 
+          {
+            "chp": 8, 
+            "duration": 2862, 
+            "seq": 57, 
+            "title": "\u7b2c57\u8bb2", 
+            "video_id": 19717
+          }
+        ], 
+        [
+          {
+            "chp": 9, 
+            "duration": 2611, 
+            "seq": 58, 
+            "title": "\u7b2c58\u8bb2", 
+            "video_id": 19718
+          }, 
+          {
+            "chp": 9, 
+            "duration": 2518, 
+            "seq": 59, 
+            "title": "\u7b2c59\u8bb2", 
+            "video_id": 19719
+          }, 
+          {
+            "chp": 9, 
+            "duration": 2512, 
+            "seq": 60, 
+            "title": "\u7b2c60\u8bb2", 
+            "video_id": 19720
+          }, 
+          {
+            "chp": 9, 
+            "duration": 2809, 
+            "seq": 61, 
+            "title": "\u7b2c61\u8bb2", 
+            "video_id": 19721
+          }, 
+          {
+            "chp": 9, 
+            "duration": 2750, 
+            "seq": 62, 
+            "title": "\u7b2c62\u8bb2", 
+            "video_id": 19722
+          }, 
+          {
+            "chp": 9, 
+            "duration": 2732, 
+            "seq": 63, 
+            "title": "\u7b2c63\u8bb2", 
+            "video_id": 19723
+          }
+        ], 
+        [
+          {
+            "chp": 10, 
+            "duration": 2742, 
+            "seq": 64, 
+            "title": "\u7b2c64\u8bb2", 
+            "video_id": 19724
+          }, 
+          {
+            "chp": 10, 
+            "duration": 2839, 
+            "seq": 65, 
+            "title": "\u7b2c65\u8bb2", 
+            "video_id": 19725
+          }, 
+          {
+            "chp": 10, 
+            "duration": 2542, 
+            "seq": 66, 
+            "title": "\u7b2c66\u8bb2", 
+            "video_id": 19726
+          }, 
+          {
+            "chp": 10, 
+            "duration": 2798, 
+            "seq": 67, 
+            "title": "\u7b2c67\u8bb2", 
+            "video_id": 19727
+          }, 
+          {
+            "chp": 10, 
+            "duration": 2604, 
+            "seq": 68, 
+            "title": "\u7b2c68\u8bb2", 
+            "video_id": 19728
+          }, 
+          {
+            "chp": 10, 
+            "duration": 2827, 
+            "seq": 69, 
+            "title": "\u7b2c69\u8bb2", 
+            "video_id": 19729
+          }
+        ], 
+        [
+          {
+            "chp": 11, 
+            "duration": 2412, 
+            "seq": 70, 
+            "title": "\u7b2c70\u8bb2", 
+            "video_id": 19730
+          }, 
+          {
+            "chp": 11, 
+            "duration": 2770, 
+            "seq": 71, 
+            "title": "\u7b2c71\u8bb2", 
+            "video_id": 19731
+          }, 
+          {
+            "chp": 11, 
+            "duration": 2778, 
+            "seq": 72, 
+            "title": "\u7b2c72\u8bb2", 
+            "video_id": 19732
+          }, 
+          {
+            "chp": 11, 
+            "duration": 2673, 
+            "seq": 73, 
+            "title": "\u7b2c73\u8bb2", 
+            "video_id": 19733
+          }, 
+          {
+            "chp": 11, 
+            "duration": 2236, 
+            "seq": 74, 
+            "title": "\u7b2c74\u8bb2", 
+            "video_id": 19734
+          }, 
+          {
+            "chp": 11, 
+            "duration": 2497, 
+            "seq": 75, 
+            "title": "\u7b2c75\u8bb2", 
+            "video_id": 19735
+          }, 
+          {
+            "chp": 11, 
+            "duration": 2668, 
+            "seq": 76, 
+            "title": "\u7b2c76\u8bb2", 
+            "video_id": 19736
+          }
+        ], 
+        [
+          {
+            "chp": 12, 
+            "duration": 2468, 
+            "seq": 77, 
+            "title": "\u7b2c77\u8bb2", 
+            "video_id": 19737
+          }, 
+          {
+            "chp": 12, 
+            "duration": 2465, 
+            "seq": 78, 
+            "title": "\u7b2c78\u8bb2", 
+            "video_id": 19738
+          }, 
+          {
+            "chp": 12, 
+            "duration": 2368, 
+            "seq": 79, 
+            "title": "\u7b2c79\u8bb2", 
+            "video_id": 19739
+          }, 
+          {
+            "chp": 12, 
+            "duration": 2295, 
+            "seq": 80, 
+            "title": "\u7b2c80\u8bb2", 
+            "video_id": 19740
+          }, 
+          {
+            "chp": 12, 
+            "duration": 2492, 
+            "seq": 81, 
+            "title": "\u7b2c81\u8bb2", 
+            "video_id": 19741
+          }, 
+          {
+            "chp": 12, 
+            "duration": 2845, 
+            "seq": 82, 
+            "title": "\u7b2c82\u8bb2", 
+            "video_id": 19742
+          }, 
+          {
+            "chp": 12, 
+            "duration": 2614, 
+            "seq": 83, 
+            "title": "\u7b2c83\u8bb2", 
+            "video_id": 19743
+          }
+        ]
+      ]
+    }, 
+    {
+      "course_code": "ZJ010", 
+      "course_id": 26, 
+      "etitle": "programming foundation", 
+      "progress": {
+        "c_ar": 0.8333, 
+        "c_ur": 1.6951, 
+        "course_id": 26, 
+        "video_list": [
+          {
+            "time": 5303, 
+            "v_ar": 1, 
+            "v_ur": 2.0349, 
+            "video_id": 17882
+          }, 
+          {
+            "time": 5193, 
+            "v_ar": 1, 
+            "v_ur": 2.0004, 
+            "video_id": 17883
+          }, 
+          {
+            "time": 7319, 
+            "v_ar": 1, 
+            "v_ur": 2.6997, 
+            "video_id": 17884
+          }, 
+          {
+            "time": 7366, 
+            "v_ar": 1, 
+            "v_ur": 2.9992, 
+            "video_id": 17885
+          }, 
+          {
+            "time": 7693, 
+            "v_ar": 1, 
+            "v_ur": 2.9992, 
+            "video_id": 17889
+          }, 
+          {
+            "time": 9721, 
+            "v_ar": 1, 
+            "v_ur": 3.6669, 
+            "video_id": 17890
+          }, 
+          {
+            "time": 7524, 
+            "v_ar": 1, 
+            "v_ur": 2.9988, 
+            "video_id": 17891
+          }, 
+          {
+            "time": 2697, 
+            "v_ar": 1, 
+            "v_ur": 0.9993, 
+            "video_id": 17893
+          }, 
+          {
+            "time": 10320, 
+            "v_ar": 1, 
+            "v_ur": 3.9985, 
+            "video_id": 17894
+          }, 
+          {
+            "time": 2511, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 17895
+          }, 
+          {
+            "time": 2646, 
+            "v_ar": 1, 
+            "v_ur": 0.9992, 
+            "video_id": 17896
+          }, 
+          {
+            "time": 5182, 
+            "v_ar": 1, 
+            "v_ur": 1.9992, 
+            "video_id": 17897
+          }, 
+          {
+            "time": 3966, 
+            "v_ar": 1, 
+            "v_ur": 1.5639, 
+            "video_id": 17898
+          }, 
+          {
+            "time": 5148, 
+            "v_ar": 1, 
+            "v_ur": 1.9992, 
+            "video_id": 17900
+          }, 
+          {
+            "time": 5114, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 17901
+          }, 
+          {
+            "time": 6957, 
+            "v_ar": 1, 
+            "v_ur": 2.7629, 
+            "video_id": 17902
+          }, 
+          {
+            "time": 7950, 
+            "v_ar": 1, 
+            "v_ur": 2.9989, 
+            "video_id": 17903
+          }, 
+          {
+            "time": 7888, 
+            "v_ar": 1, 
+            "v_ur": 3.074, 
+            "video_id": 17904
+          }, 
+          {
+            "time": 2572, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 17905
+          }, 
+          {
+            "time": 4922, 
+            "v_ar": 1, 
+            "v_ur": 2.0, 
+            "video_id": 17907
+          }, 
+          {
+            "time": 8433, 
+            "v_ar": 1, 
+            "v_ur": 2.9989, 
+            "video_id": 17908
+          }, 
+          {
+            "time": 5040, 
+            "v_ar": 1, 
+            "v_ur": 1.9992, 
+            "video_id": 17909
+          }, 
+          {
+            "time": 5230, 
+            "v_ar": 1, 
+            "v_ur": 1.9992, 
+            "video_id": 17910
+          }, 
+          {
+            "time": 2636, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 17911
+          }, 
+          {
+            "time": 2511, 
+            "v_ar": 1, 
+            "v_ur": 0.9992, 
+            "video_id": 17912
+          }, 
+          {
+            "time": 2630, 
+            "v_ar": 1, 
+            "v_ur": 1.0, 
+            "video_id": 17913
+          }, 
+          {
+            "time": 2407, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 17914
+          }, 
+          {
+            "time": 2525, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 17915
+          }, 
+          {
+            "time": 2361, 
+            "v_ar": 1, 
+            "v_ur": 0.9996, 
+            "video_id": 17916
+          }, 
+          {
+            "time": 4261, 
+            "v_ar": 1, 
+            "v_ur": 1.6522, 
+            "video_id": 17917
+          }
+        ]
+      }, 
+      "seq": 5, 
+      "title": "\u7a0b\u5e8f\u8bbe\u8ba1\u57fa\u7840", 
+      "video_count": 36, 
+      "video_list": [
+        [
+          {
+            "chp": 1, 
+            "duration": 2606, 
+            "seq": 1, 
+            "title": "\u7b2c01\u8bb2", 
+            "video_id": 17882
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2596, 
+            "seq": 2, 
+            "title": "\u7b2c02\u8bb2", 
+            "video_id": 17883
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2711, 
+            "seq": 3, 
+            "title": "\u7b2c03\u8bb2", 
+            "video_id": 17884
+          }, 
+          {
+            "chp": 1, 
+            "duration": 2456, 
+            "seq": 4, 
+            "title": "\u7b2c04\u8bb2", 
+            "video_id": 17885
+          }
+        ], 
+        [
+          {
+            "chp": 2, 
+            "duration": 2357, 
+            "seq": 5, 
+            "title": "\u7b2c05\u8bb2", 
+            "video_id": 17886
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2266, 
+            "seq": 6, 
+            "title": "\u7b2c06\u8bb2", 
+            "video_id": 17887
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2634, 
+            "seq": 7, 
+            "title": "\u7b2c07\u8bb2", 
+            "video_id": 17888
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2565, 
+            "seq": 8, 
+            "title": "\u7b2c08\u8bb2", 
+            "video_id": 17889
+          }, 
+          {
+            "chp": 2, 
+            "duration": 2651, 
+            "seq": 9, 
+            "title": "\u7b2c09\u8bb2", 
+            "video_id": 17890
+          }
+        ], 
+        [
+          {
+            "chp": 3, 
+            "duration": 2509, 
+            "seq": 10, 
+            "title": "\u7b2c10\u8bb2", 
+            "video_id": 17891
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2614, 
+            "seq": 11, 
+            "title": "\u7b2c11\u8bb2", 
+            "video_id": 17892
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2699, 
+            "seq": 12, 
+            "title": "\u7b2c12\u8bb2", 
+            "video_id": 17893
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2581, 
+            "seq": 13, 
+            "title": "\u7b2c13\u8bb2", 
+            "video_id": 17894
+          }, 
+          {
+            "chp": 3, 
+            "duration": 2512, 
+            "seq": 14, 
+            "title": "\u7b2c14\u8bb2", 
+            "video_id": 17895
+          }
+        ], 
+        [
+          {
+            "chp": 4, 
+            "duration": 2648, 
+            "seq": 15, 
+            "title": "\u7b2c15\u8bb2", 
+            "video_id": 17896
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2592, 
+            "seq": 16, 
+            "title": "\u7b2c16\u8bb2", 
+            "video_id": 17897
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2536, 
+            "seq": 17, 
+            "title": "\u7b2c17\u8bb2", 
+            "video_id": 17898
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2570, 
+            "seq": 18, 
+            "title": "\u7b2c18\u8bb2", 
+            "video_id": 17899
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2575, 
+            "seq": 19, 
+            "title": "\u7b2c19\u8bb2", 
+            "video_id": 17900
+          }, 
+          {
+            "chp": 4, 
+            "duration": 2557, 
+            "seq": 20, 
+            "title": "\u7b2c20\u8bb2", 
+            "video_id": 17901
+          }
+        ], 
+        [
+          {
+            "chp": 5, 
+            "duration": 2518, 
+            "seq": 21, 
+            "title": "\u7b2c21\u8bb2", 
+            "video_id": 17902
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2651, 
+            "seq": 22, 
+            "title": "\u7b2c22\u8bb2", 
+            "video_id": 17903
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2566, 
+            "seq": 23, 
+            "title": "\u7b2c23\u8bb2", 
+            "video_id": 17904
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2573, 
+            "seq": 24, 
+            "title": "\u7b2c24\u8bb2", 
+            "video_id": 17905
+          }, 
+          {
+            "chp": 5, 
+            "duration": 2435, 
+            "seq": 25, 
+            "title": "\u7b2c25\u8bb2", 
+            "video_id": 17906
+          }
+        ], 
+        [
+          {
+            "chp": 6, 
+            "duration": 2461, 
+            "seq": 26, 
+            "title": "\u7b2c26\u8bb2", 
+            "video_id": 17907
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2812, 
+            "seq": 27, 
+            "title": "\u7b2c27\u8bb2", 
+            "video_id": 17908
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2521, 
+            "seq": 28, 
+            "title": "\u7b2c28\u8bb2", 
+            "video_id": 17909
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2616, 
+            "seq": 29, 
+            "title": "\u7b2c29\u8bb2", 
+            "video_id": 17910
+          }, 
+          {
+            "chp": 6, 
+            "duration": 2637, 
+            "seq": 30, 
+            "title": "\u7b2c30\u8bb2", 
+            "video_id": 17911
+          }
+        ], 
+        [
+          {
+            "chp": 7, 
+            "duration": 2513, 
+            "seq": 31, 
+            "title": "\u7b2c31\u8bb2", 
+            "video_id": 17912
+          }, 
+          {
+            "chp": 7, 
+            "duration": 2630, 
+            "seq": 32, 
+            "title": "\u7b2c32\u8bb2", 
+            "video_id": 17913
+          }, 
+          {
+            "chp": 7, 
+            "duration": 2408, 
+            "seq": 33, 
+            "title": "\u7b2c33\u8bb2", 
+            "video_id": 17914
+          }, 
+          {
+            "chp": 7, 
+            "duration": 2526, 
+            "seq": 34, 
+            "title": "\u7b2c34\u8bb2", 
+            "video_id": 17915
+          }
+        ], 
+        [
+          {
+            "chp": 8, 
+            "duration": 2362, 
+            "seq": 35, 
+            "title": "\u7b2c35\u8bb2", 
+            "video_id": 17916
+          }, 
+          {
+            "chp": 8, 
+            "duration": 2579, 
+            "seq": 36, 
+            "title": "\u7b2c36\u8bb2", 
+            "video_id": 17917
+          }
+        ]
+      ]
+    }
+  ], 
+  "date_start": "2017-02-26", 
+  "exams": [
+    {
+      "course_ids": [
+        26, 
+        68, 
+        162
+      ], 
+      "date": "2017-07-08"
+    }, 
+    {
+      "course_ids": [
+        59099
+      ], 
+      "date": "2017-07-09"
+    }, 
+    {
+      "course_ids": [
+        171
+      ], 
+      "date": "2017-07-15"
+    }
+  ], 
+  "history": {
+    "date_first": "", 
+    "date_last": "", 
+    "rs": {
+      "2017-03-06": {
+        "162": {
+          "3852": [
+            2085, 
+            0.9995206136145733
+          ], 
+          "3853": [
+            778, 
+            2.0
+          ]
+        }, 
+        "26": {
+          "17882": [
+            2604, 
+            0.9992325402916347
+          ]
+        }
+      }, 
+      "2017-03-07": {
+        "162": {
+          "3854": [
+            3524, 
+            0.5330509756466495
+          ]
+        }
+      }, 
+      "2017-03-08": {
+        "1024": {
+          "2433": [
+            0, 
+            0.0
+          ]
+        }, 
+        "162": {
+          "3854": [
+            2, 
+            0.0003025260928755105
+          ], 
+          "3855": [
+            0, 
+            0.0
+          ], 
+          "3856": [
+            0, 
+            0.0
+          ]
+        }, 
+        "26": {
+          "17882": [
+            20, 
+            0.007674597083653108
+          ], 
+          "17883": [
+            2596, 
+            1.0
+          ]
+        }, 
+        "68": {
+          "19661": [
+            1, 
+            0.000395882818685669
+          ], 
+          "19662": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-03-09": {
+        "1024": {
+          "2433": [
+            2972, 
+            0.9886892880904857
+          ]
+        }, 
+        "59099": {
+          "2023": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19661": [
+            5055, 
+            2.001187648456057
+          ], 
+          "19662": [
+            2653, 
+            0.9996232102486813
+          ]
+        }
+      }, 
+      "2017-03-10": {
+        "162": {
+          "3855": [
+            1801, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-03-11": {
+        "26": {
+          "17884": [
+            2710, 
+            0.99963113242346
+          ], 
+          "17885": [
+            2454, 
+            0.999185667752443
+          ]
+        }, 
+        "59099": {
+          "2024": [
+            3095, 
+            0.9987092610519522
+          ]
+        }, 
+        "68": {
+          "19664": [
+            2331, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-03-12": {
+        "162": {
+          "3856": [
+            2140, 
+            1.0
+          ], 
+          "3858": [
+            0, 
+            0.0
+          ]
+        }, 
+        "26": {
+          "17885": [
+            2457, 
+            1.0004071661237786
+          ]
+        }, 
+        "59099": {
+          "2026": [
+            3028, 
+            0.9986807387862797
+          ], 
+          "2027": [
+            2718, 
+            0.9988974641675854
+          ], 
+          "2028": [
+            1553, 
+            1.017026850032744
+          ]
+        }
+      }, 
+      "2017-03-13": {
+        "162": {
+          "3857": [
+            496, 
+            1.0
+          ]
+        }, 
+        "26": {
+          "17883": [
+            2, 
+            0.0007704160246533128
+          ], 
+          "17884": [
+            2710, 
+            0.99963113242346
+          ], 
+          "17885": [
+            2455, 
+            0.9995928338762216
+          ]
+        }, 
+        "59099": {
+          "2025": [
+            898, 
+            0.9846491228070176
+          ]
+        }
+      }, 
+      "2017-03-14": {
+        "162": {
+          "3857": [
+            496, 
+            1.0
+          ], 
+          "3858": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-03-15": {
+        "171": {
+          "28094": [
+            1077, 
+            1.0
+          ]
+        }, 
+        "59099": {
+          "2027": [
+            2717, 
+            0.9985299522234473
+          ], 
+          "2028": [
+            1553, 
+            1.017026850032744
+          ], 
+          "2029": [
+            1635, 
+            0.9975594874923734
+          ], 
+          "2030": [
+            3330, 
+            1.9964028776978417
+          ]
+        }
+      }, 
+      "2017-03-16": {
+        "162": {
+          "3860": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-03-17": {
+        "59099": {
+          "2030": [
+            1664, 
+            0.9976019184652278
+          ]
+        }
+      }, 
+      "2017-03-18": {
+        "162": {
+          "3860": [
+            0, 
+            0.0
+          ]
+        }, 
+        "59099": {
+          "2030": [
+            1665, 
+            0.9982014388489209
+          ]
+        }, 
+        "68": {
+          "19664": [
+            2331, 
+            1.0
+          ], 
+          "19665": [
+            4882, 
+            2.0
+          ], 
+          "19666": [
+            2406, 
+            0.9995845450768591
+          ]
+        }
+      }, 
+      "2017-03-19": {
+        "171": {
+          "28094": [
+            1076, 
+            0.9990714948932219
+          ], 
+          "28095": [
+            2216, 
+            1.0
+          ], 
+          "28096": [
+            1922, 
+            2.0
+          ], 
+          "28097": [
+            802, 
+            0.9987546699875467
+          ]
+        }
+      }, 
+      "2017-03-20": {
+        "162": {
+          "3862": [
+            1481, 
+            1.0
+          ], 
+          "3864": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-03-21": {
+        "162": {
+          "3865": [
+            651, 
+            1.0
+          ]
+        }, 
+        "171": {
+          "28099": [
+            888, 
+            1.0
+          ], 
+          "28100": [
+            847, 
+            1.0
+          ], 
+          "28101": [
+            781, 
+            1.0
+          ], 
+          "28102": [
+            1524, 
+            1.040983606557377
+          ]
+        }, 
+        "59099": {
+          "2033": [
+            101, 
+            0.9711538461538461
+          ]
+        }
+      }, 
+      "2017-03-22": {
+        "171": {
+          "28101": [
+            781, 
+            1.0
+          ], 
+          "28103": [
+            679, 
+            1.0
+          ], 
+          "28104": [
+            2421, 
+            1.0066528066528067
+          ], 
+          "28105": [
+            810, 
+            1.0062111801242235
+          ], 
+          "28106": [
+            0, 
+            0.0
+          ], 
+          "28107": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-03-23": {
+        "171": {
+          "28105": [
+            0, 
+            0.0
+          ], 
+          "28106": [
+            599, 
+            1.0067226890756302
+          ], 
+          "28107": [
+            2369, 
+            2.014455782312925
+          ]
+        }
+      }, 
+      "2017-03-24": {
+        "26": {
+          "17889": [
+            2565, 
+            1.0
+          ], 
+          "17890": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-03-25": {
+        "26": {
+          "17890": [
+            1768, 
+            0.6669181440965674
+          ]
+        }
+      }, 
+      "2017-03-26": {
+        "26": {
+          "17882": [
+            43, 
+            0.01650038372985418
+          ]
+        }
+      }, 
+      "2017-03-27": {
+        "26": {
+          "17882": [
+            31, 
+            0.011895625479662318
+          ], 
+          "17890": [
+            2651, 
+            1.0
+          ], 
+          "17905": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-03-28": {
+        "162": {
+          "3867": [
+            1351, 
+            1.0
+          ], 
+          "3868": [
+            1218, 
+            1.000821692686935
+          ]
+        }, 
+        "171": {
+          "28105": [
+            810, 
+            1.0062111801242235
+          ], 
+          "28110": [
+            2818, 
+            2.641049671977507
+          ], 
+          "28111": [
+            1969, 
+            1.0
+          ], 
+          "28112": [
+            631, 
+            0.39168218497827434
+          ]
+        }
+      }, 
+      "2017-03-29": {
+        "59099": {
+          "2035": [
+            1969, 
+            0.9979726305119108
+          ]
+        }, 
+        "68": {
+          "19666": [
+            2407, 
+            1.0
+          ], 
+          "19667": [
+            2473, 
+            0.9995957962813258
+          ], 
+          "19668": [
+            2569, 
+            0.9996108949416342
+          ]
+        }
+      }, 
+      "2017-03-30": {
+        "162": {
+          "3870": [
+            0, 
+            0.0
+          ]
+        }, 
+        "171": {
+          "28112": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-03-31": {
+        "171": {
+          "28112": [
+            1612, 
+            1.000620732464308
+          ], 
+          "28116": [
+            695, 
+            1.0014409221902016
+          ], 
+          "28117": [
+            1418, 
+            1.0
+          ], 
+          "28118": [
+            2216, 
+            1.0
+          ]
+        }, 
+        "59099": {
+          "2036": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19669": [
+            2678, 
+            0.9996267263904441
+          ]
+        }
+      }, 
+      "2017-04-01": {
+        "59099": {
+          "2036": [
+            1359, 
+            0.806049822064057
+          ]
+        }, 
+        "68": {
+          "19671": [
+            2479, 
+            1.0
+          ], 
+          "19672": [
+            2436, 
+            0.9995896594173164
+          ]
+        }
+      }, 
+      "2017-04-02": {
+        "162": {
+          "3870": [
+            0, 
+            0.0
+          ]
+        }, 
+        "26": {
+          "17889": [
+            2564, 
+            0.9996101364522417
+          ], 
+          "17890": [
+            2651, 
+            1.0
+          ], 
+          "17891": [
+            2508, 
+            0.9996014348345954
+          ]
+        }
+      }, 
+      "2017-04-03": {
+        "162": {
+          "3871": [
+            567, 
+            1.0
+          ], 
+          "3874": [
+            592, 
+            0.6997635933806147
+          ], 
+          "3875": [
+            1692, 
+            2.0
+          ], 
+          "3877": [
+            923, 
+            1.0
+          ]
+        }, 
+        "59099": {
+          "2032": [
+            1201, 
+            0.9966804979253112
+          ], 
+          "2035": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-04": {
+        "162": {
+          "3872": [
+            0, 
+            0.0
+          ], 
+          "3876": [
+            0, 
+            0.0
+          ], 
+          "3877": [
+            923, 
+            1.0
+          ], 
+          "3880": [
+            1172, 
+            1.0008539709649873
+          ]
+        }, 
+        "59099": {
+          "2035": [
+            1969, 
+            0.9979726305119108
+          ]
+        }, 
+        "68": {
+          "19671": [
+            2479, 
+            1.0
+          ], 
+          "19672": [
+            2436, 
+            0.9995896594173164
+          ]
+        }
+      }, 
+      "2017-04-05": {
+        "162": {
+          "3881": [
+            607, 
+            1.0
+          ], 
+          "3882": [
+            0, 
+            0.0
+          ]
+        }, 
+        "26": {
+          "17894": [
+            2580, 
+            0.9996125532739248
+          ]
+        }
+      }, 
+      "2017-04-06": {
+        "162": {
+          "3889": [
+            1459, 
+            1.0
+          ], 
+          "3891": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-07": {
+        "162": {
+          "3891": [
+            1103, 
+            0.6636582430806257
+          ]
+        }, 
+        "26": {
+          "17894": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19673": [
+            2587, 
+            0.999613601236476
+          ], 
+          "19674": [
+            2520, 
+            1.0
+          ], 
+          "19675": [
+            2320, 
+            0.999569151227919
+          ]
+        }
+      }, 
+      "2017-04-08": {
+        "162": {
+          "3876": [
+            0, 
+            0.0
+          ]
+        }, 
+        "26": {
+          "17894": [
+            2580, 
+            0.9996125532739248
+          ], 
+          "17897": [
+            0, 
+            0.0
+          ], 
+          "17898": [
+            2535, 
+            0.9996056782334385
+          ]
+        }
+      }, 
+      "2017-04-09": {
+        "162": {
+          "3878": [
+            0, 
+            0.0
+          ], 
+          "3880": [
+            1172, 
+            1.0008539709649873
+          ], 
+          "3881": [
+            607, 
+            1.0
+          ]
+        }, 
+        "26": {
+          "17897": [
+            2591, 
+            0.9996141975308642
+          ]
+        }, 
+        "59099": {
+          "2035": [
+            1969, 
+            0.9979726305119108
+          ], 
+          "2036": [
+            1682, 
+            0.9976275207591934
+          ], 
+          "2038": [
+            2702, 
+            0.9981529368304396
+          ]
+        }
+      }, 
+      "2017-04-10": {
+        "68": {
+          "19672": [
+            2436, 
+            0.9995896594173164
+          ], 
+          "19673": [
+            2587, 
+            0.999613601236476
+          ]
+        }
+      }, 
+      "2017-04-11": {
+        "162": {
+          "3897": [
+            847, 
+            1.0011820330969268
+          ], 
+          "3898": [
+            4533, 
+            2.000441306266549
+          ], 
+          "3899": [
+            903, 
+            1.0
+          ], 
+          "3900": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-12": {
+        "59099": {
+          "2036": [
+            1682, 
+            0.9976275207591934
+          ], 
+          "2037": [
+            1987, 
+            0.9994969818913481
+          ], 
+          "2038": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-13": {
+        "162": {
+          "3900": [
+            0, 
+            0.0
+          ]
+        }, 
+        "59099": {
+          "2038": [
+            2701, 
+            0.9977835241965275
+          ], 
+          "2039": [
+            2414, 
+            0.9987587918907737
+          ]
+        }, 
+        "68": {
+          "19676": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-14": {
+        "68": {
+          "19676": [
+            2669, 
+            0.999625468164794
+          ], 
+          "19677": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-15": {
+        "59099": {
+          "2039": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19675": [
+            2321, 
+            1.0
+          ], 
+          "19676": [
+            2669, 
+            0.999625468164794
+          ], 
+          "19677": [
+            2747, 
+            0.9996360989810772
+          ], 
+          "19678": [
+            2603, 
+            1.0
+          ], 
+          "19679": [
+            2818, 
+            0.9996452642781128
+          ]
+        }
+      }, 
+      "2017-04-16": {
+        "26": {
+          "17889": [
+            2564, 
+            0.9996101364522417
+          ], 
+          "17890": [
+            2651, 
+            1.0
+          ], 
+          "17891": [
+            2508, 
+            0.9996014348345954
+          ]
+        }, 
+        "59099": {
+          "2039": [
+            2414, 
+            0.9987587918907737
+          ], 
+          "2040": [
+            3156, 
+            0.9987341772151899
+          ]
+        }
+      }, 
+      "2017-04-17": {
+        "26": {
+          "17891": [
+            2508, 
+            0.9996014348345954
+          ], 
+          "17893": [
+            2697, 
+            0.9992589848091886
+          ], 
+          "17894": [
+            5160, 
+            1.9992251065478497
+          ], 
+          "17895": [
+            2511, 
+            0.9996019108280255
+          ], 
+          "17896": [
+            2646, 
+            0.9992447129909365
+          ], 
+          "17897": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-18": {
+        "26": {
+          "17897": [
+            2591, 
+            0.9996141975308642
+          ], 
+          "17898": [
+            1431, 
+            0.5642744479495269
+          ]
+        }, 
+        "68": {
+          "19673": [
+            2587, 
+            0.999613601236476
+          ], 
+          "19674": [
+            5038, 
+            1.9992063492063492
+          ], 
+          "19675": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-19": {
+        "26": {
+          "17900": [
+            2574, 
+            0.9996116504854369
+          ], 
+          "17901": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19675": [
+            2320, 
+            0.999569151227919
+          ], 
+          "19677": [
+            2747, 
+            0.9996360989810772
+          ]
+        }
+      }, 
+      "2017-04-20": {
+        "26": {
+          "17901": [
+            2557, 
+            1.0
+          ], 
+          "17902": [
+            1921, 
+            0.7629070691024623
+          ]
+        }, 
+        "59099": {
+          "2035": [
+            1969, 
+            0.9979726305119108
+          ], 
+          "2040": [
+            3156, 
+            0.9987341772151899
+          ], 
+          "2041": [
+            1158, 
+            0.9965576592082617
+          ], 
+          "2042": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-21": {
+        "59099": {
+          "2042": [
+            2691, 
+            0.9988864142538976
+          ], 
+          "2043": [
+            2752, 
+            0.9985486211901307
+          ], 
+          "2045": [
+            987, 
+            0.8883888388838884
+          ]
+        }, 
+        "68": {
+          "19677": [
+            2747, 
+            0.9996360989810772
+          ], 
+          "19678": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-22": {
+        "68": {
+          "19678": [
+            2603, 
+            1.0
+          ], 
+          "19679": [
+            2514, 
+            0.8918056048244059
+          ], 
+          "19680": [
+            2389, 
+            0.999581589958159
+          ], 
+          "19681": [
+            2741, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-04-23": {
+        "26": {
+          "17901": [
+            2557, 
+            1.0
+          ], 
+          "17902": [
+            2518, 
+            1.0
+          ], 
+          "17903": [
+            5300, 
+            1.999245567710298
+          ], 
+          "17904": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19681": [
+            2741, 
+            1.0
+          ], 
+          "19682": [
+            5255, 
+            1.9996194824961948
+          ]
+        }
+      }, 
+      "2017-04-24": {
+        "26": {
+          "17904": [
+            2565, 
+            0.9996102883865939
+          ]
+        }, 
+        "68": {
+          "19681": [
+            2740, 
+            0.9996351696461145
+          ], 
+          "19682": [
+            2628, 
+            1.0
+          ], 
+          "19683": [
+            2369, 
+            0.9995780590717299
+          ]
+        }
+      }, 
+      "2017-04-25": {
+        "68": {
+          "19683": [
+            4738, 
+            1.9991561181434598
+          ], 
+          "19684": [
+            2619, 
+            1.0
+          ], 
+          "19685": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-26": {
+        "68": {
+          "19683": [
+            2369, 
+            0.9995780590717299
+          ], 
+          "19684": [
+            2619, 
+            1.0
+          ], 
+          "19685": [
+            2643, 
+            1.0
+          ], 
+          "19686": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-27": {
+        "68": {
+          "19685": [
+            2643, 
+            1.0
+          ], 
+          "19686": [
+            2616, 
+            0.9996178830722201
+          ], 
+          "19687": [
+            2856, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-04-28": {
+        "26": {
+          "17904": [
+            2565, 
+            0.9996102883865939
+          ], 
+          "17905": [
+            2572, 
+            0.9996113486202876
+          ], 
+          "17907": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19688": [
+            2570, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-04-29": {
+        "26": {
+          "17907": [
+            4922, 
+            2.0
+          ], 
+          "17908": [
+            8433, 
+            2.9989331436699858
+          ], 
+          "17909": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-04-30": {
+        "26": {
+          "17900": [
+            2574, 
+            0.9996116504854369
+          ], 
+          "17902": [
+            2518, 
+            1.0
+          ], 
+          "17903": [
+            0, 
+            0.0
+          ], 
+          "17909": [
+            5040, 
+            1.9992066640222135
+          ], 
+          "17910": [
+            2615, 
+            0.9996177370030581
+          ]
+        }
+      }, 
+      "2017-05-01": {
+        "26": {
+          "17903": [
+            2650, 
+            0.999622783855149
+          ], 
+          "17904": [
+            2758, 
+            1.0748246297739672
+          ], 
+          "17910": [
+            2615, 
+            0.9996177370030581
+          ], 
+          "17911": [
+            2636, 
+            0.999620781190747
+          ], 
+          "17912": [
+            2511, 
+            0.9992041384799045
+          ]
+        }, 
+        "68": {
+          "19686": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-02": {
+        "68": {
+          "19686": [
+            2616, 
+            0.9996178830722201
+          ], 
+          "19690": [
+            3051, 
+            0.9996723460026212
+          ], 
+          "19691": [
+            2849, 
+            1.0007024938531788
+          ], 
+          "19692": [
+            2430, 
+            1.0
+          ], 
+          "19693": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-03": {
+        "26": {
+          "17913": [
+            2630, 
+            1.0
+          ], 
+          "17914": [
+            2407, 
+            0.9995847176079734
+          ], 
+          "17915": [
+            2525, 
+            0.9996041171813144
+          ], 
+          "17916": [
+            2361, 
+            0.9995766299745978
+          ], 
+          "17917": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19693": [
+            2299, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-05-04": {
+        "26": {
+          "17917": [
+            4261, 
+            1.6521907716169058
+          ]
+        }, 
+        "59099": {
+          "2036": [
+            1682, 
+            0.9976275207591934
+          ], 
+          "2040": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-05": {
+        "59099": {
+          "2040": [
+            3156, 
+            0.9987341772151899
+          ], 
+          "2041": [
+            0, 
+            0.0
+          ], 
+          "2042": [
+            2691, 
+            0.9988864142538976
+          ], 
+          "2043": [
+            2752, 
+            0.9985486211901307
+          ], 
+          "2044": [
+            2761, 
+            0.9985533453887884
+          ], 
+          "2045": [
+            1107, 
+            0.9963996399639964
+          ], 
+          "2046": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-06": {
+        "59099": {
+          "2044": [
+            2761, 
+            0.9985533453887884
+          ], 
+          "2046": [
+            2719, 
+            0.9985310319500551
+          ]
+        }, 
+        "68": {
+          "19695": [
+            4918, 
+            2.0
+          ], 
+          "19696": [
+            2509, 
+            0.999601593625498
+          ], 
+          "19697": [
+            2798, 
+            1.0
+          ], 
+          "19698": [
+            2520, 
+            1.0
+          ], 
+          "19700": [
+            4004, 
+            1.4249110320284697
+          ], 
+          "19701": [
+            2286, 
+            0.9995627459554001
+          ], 
+          "19702": [
+            5032, 
+            2.0
+          ], 
+          "19703": [
+            2721, 
+            0.9996326230712711
+          ], 
+          "19704": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-07": {
+        "162": {
+          "3854": [
+            0, 
+            0.0
+          ]
+        }, 
+        "59099": {
+          "2043": [
+            2752, 
+            0.9985486211901307
+          ], 
+          "2044": [
+            2761, 
+            0.9985533453887884
+          ], 
+          "2045": [
+            1107, 
+            0.9963996399639964
+          ], 
+          "2046": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19702": [
+            0, 
+            0.0
+          ], 
+          "19703": [
+            0, 
+            0.0
+          ], 
+          "19704": [
+            2488, 
+            1.0
+          ], 
+          "19705": [
+            2706, 
+            0.9996305873660879
+          ], 
+          "19706": [
+            2443, 
+            1.0
+          ], 
+          "19707": [
+            2510, 
+            0.9996017522899243
+          ], 
+          "19708": [
+            2307, 
+            1.0
+          ], 
+          "19709": [
+            2620, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-05-08": {
+        "59099": {
+          "2047": [
+            2518, 
+            0.9984139571768438
+          ], 
+          "2048": [
+            2768, 
+            0.9989173583543847
+          ], 
+          "2049": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19710": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-09": {
+        "59099": {
+          "2048": [
+            2768, 
+            0.9989173583543847
+          ], 
+          "2049": [
+            0, 
+            0.0
+          ], 
+          "2050": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19710": [
+            5166, 
+            2.0
+          ], 
+          "19711": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-10": {
+        "68": {
+          "19711": [
+            2852, 
+            0.9992992291520673
+          ], 
+          "19712": [
+            5257, 
+            2.000380517503805
+          ], 
+          "19713": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-11": {
+        "59099": {
+          "2050": [
+            2729, 
+            0.9989019033674963
+          ], 
+          "2051": [
+            3036, 
+            0.9986842105263158
+          ], 
+          "2052": [
+            1271, 
+            0.9976452119309263
+          ], 
+          "2053": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19713": [
+            2531, 
+            0.9996050552922591
+          ], 
+          "19714": [
+            2429, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-05-12": {
+        "59099": {
+          "2053": [
+            2233, 
+            0.9986583184257602
+          ]
+        }, 
+        "68": {
+          "19713": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-13": {
+        "68": {
+          "19713": [
+            2531, 
+            0.9996050552922591
+          ], 
+          "19715": [
+            2371, 
+            1.0
+          ], 
+          "19716": [
+            1184, 
+            0.4503613541270445
+          ]
+        }
+      }, 
+      "2017-05-14": {
+        "59099": {
+          "2054": [
+            2702, 
+            1.0
+          ], 
+          "2055": [
+            2704, 
+            0.9988917620982638
+          ], 
+          "2056": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-15": {
+        "59099": {
+          "2056": [
+            2639, 
+            0.9988644965934897
+          ], 
+          "2057": [
+            2687, 
+            0.998513563730955
+          ], 
+          "2058": [
+            5568, 
+            1.9971305595408895
+          ], 
+          "2059": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-16": {
+        "59099": {
+          "2059": [
+            2790, 
+            0.9985683607730852
+          ]
+        }, 
+        "68": {
+          "19716": [
+            2629, 
+            1.0
+          ], 
+          "19717": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-17": {
+        "68": {
+          "19717": [
+            2862, 
+            1.0
+          ], 
+          "19718": [
+            2610, 
+            0.9996170049789352
+          ], 
+          "19719": [
+            4605, 
+            1.828832406671962
+          ], 
+          "19720": [
+            2512, 
+            1.0
+          ], 
+          "19721": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-18": {
+        "59099": {
+          "2057": [
+            2687, 
+            0.998513563730955
+          ], 
+          "2058": [
+            2784, 
+            0.9985652797704447
+          ]
+        }, 
+        "68": {
+          "19721": [
+            2808, 
+            0.9996440014239943
+          ], 
+          "19722": [
+            2750, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-05-19": {
+        "59099": {
+          "2058": [
+            2784, 
+            0.9985652797704447
+          ], 
+          "2059": [
+            2171, 
+            0.7770221904080172
+          ], 
+          "2060": [
+            2946, 
+            0.9989827060020345
+          ], 
+          "2061": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-20": {
+        "59099": {
+          "2061": [
+            5574, 
+            1.997133643855249
+          ], 
+          "2062": [
+            2739, 
+            0.9989059080962801
+          ]
+        }, 
+        "68": {
+          "19720": [
+            2512, 
+            1.0
+          ], 
+          "19721": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-21": {
+        "68": {
+          "19721": [
+            2808, 
+            0.9996440014239943
+          ], 
+          "19722": [
+            2750, 
+            1.0
+          ], 
+          "19723": [
+            2732, 
+            1.0
+          ], 
+          "19724": [
+            2742, 
+            1.0
+          ], 
+          "19725": [
+            5680, 
+            2.000704473406129
+          ], 
+          "19726": [
+            5084, 
+            2.0
+          ], 
+          "19727": [
+            2797, 
+            0.9996426018584703
+          ]
+        }
+      }, 
+      "2017-05-22": {
+        "68": {
+          "19727": [
+            2797, 
+            0.9996426018584703
+          ], 
+          "19728": [
+            2604, 
+            1.0
+          ], 
+          "19729": [
+            2827, 
+            1.0
+          ], 
+          "19730": [
+            2412, 
+            1.0
+          ], 
+          "19731": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-23": {
+        "68": {
+          "19731": [
+            2769, 
+            0.9996389891696751
+          ], 
+          "19732": [
+            2778, 
+            1.0
+          ], 
+          "19733": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-24": {
+        "68": {
+          "19733": [
+            6812, 
+            2.548447437336326
+          ], 
+          "19734": [
+            2235, 
+            0.9995527728085868
+          ], 
+          "19735": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-25": {
+        "68": {
+          "19735": [
+            2496, 
+            0.9995995194233079
+          ], 
+          "19736": [
+            1312, 
+            0.4917541229385307
+          ]
+        }
+      }, 
+      "2017-05-26": {
+        "68": {
+          "19736": [
+            5334, 
+            1.9992503748125936
+          ], 
+          "19737": [
+            2467, 
+            0.9995948136142626
+          ], 
+          "19738": [
+            2464, 
+            0.9995943204868154
+          ]
+        }
+      }, 
+      "2017-05-27": {
+        "68": {
+          "19738": [
+            2472, 
+            1.0028397565922922
+          ], 
+          "19739": [
+            2367, 
+            0.9995777027027027
+          ], 
+          "19740": [
+            2295, 
+            1.0
+          ], 
+          "19741": [
+            2492, 
+            1.0
+          ], 
+          "19742": [
+            2844, 
+            0.9996485061511423
+          ], 
+          "19743": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-28": {
+        "59099": {
+          "2062": [
+            2739, 
+            0.9989059080962801
+          ], 
+          "2063": [
+            1844, 
+            0.9978354978354979
+          ], 
+          "2064": [
+            1198, 
+            0.9975020815986678
+          ], 
+          "2065": [
+            2734, 
+            0.9985390796201608
+          ], 
+          "2066": [
+            1221, 
+            0.9975490196078431
+          ], 
+          "2067": [
+            2262, 
+            1.1236959761549925
+          ], 
+          "2068": [
+            1467, 
+            0.9972807613868117
+          ], 
+          "2069": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19743": [
+            2614, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-05-29": {
+        "59099": {
+          "2067": [
+            2, 
+            0.0009935419771485345
+          ], 
+          "2069": [
+            2054, 
+            0.9980563654033042
+          ], 
+          "2070": [
+            1229, 
+            0.997564935064935
+          ], 
+          "2071": [
+            0, 
+            0.0
+          ], 
+          "2073": [
+            1456, 
+            0.997943797121316
+          ], 
+          "2074": [
+            2582, 
+            0.9984532095901005
+          ], 
+          "2075": [
+            2069, 
+            0.9980704293294742
+          ], 
+          "2076": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-05-30": {
+        "162": {
+          "3852": [
+            2086, 
+            1.0
+          ], 
+          "3854": [
+            0, 
+            0.0
+          ], 
+          "3856": [
+            2140, 
+            1.0
+          ], 
+          "3857": [
+            496, 
+            1.0
+          ], 
+          "3859": [
+            766, 
+            1.0
+          ], 
+          "3860": [
+            0, 
+            0.0
+          ]
+        }, 
+        "59099": {
+          "2076": [
+            1196, 
+            0.9974979149291076
+          ], 
+          "2077": [
+            171, 
+            0.9827586206896551
+          ], 
+          "2078": [
+            2688, 
+            0.9985141158989599
+          ], 
+          "2079": [
+            979, 
+            0.9959308240081384
+          ], 
+          "2080": [
+            808, 
+            0.9950738916256158
+          ], 
+          "2081": [
+            506, 
+            0.9941060903732809
+          ], 
+          "2082": [
+            619, 
+            0.9935794542536116
+          ], 
+          "2083": [
+            1266, 
+            0.9968503937007874
+          ], 
+          "2084": [
+            1989, 
+            0.9979929754139488
+          ], 
+          "2085": [
+            986, 
+            0.9989868287740629
+          ]
+        }
+      }, 
+      "2017-05-31": {
+        "162": {
+          "3861": [
+            1200, 
+            1.0
+          ], 
+          "3862": [
+            1481, 
+            1.0
+          ], 
+          "3863": [
+            517, 
+            1.0
+          ], 
+          "3864": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-01": {
+        "162": {
+          "3864": [
+            0, 
+            0.0
+          ]
+        }, 
+        "171": {
+          "28090": [
+            622, 
+            0.9983948635634029
+          ], 
+          "28091": [
+            1131, 
+            1.0
+          ], 
+          "28092": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-02": {
+        "171": {
+          "28089": [
+            147, 
+            1.0
+          ], 
+          "28092": [
+            1277, 
+            1.0
+          ], 
+          "28095": [
+            2216, 
+            1.0
+          ], 
+          "28096": [
+            961, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-06-03": {
+        "171": {
+          "28097": [
+            802, 
+            0.9987546699875467
+          ], 
+          "28098": [
+            733, 
+            0.9986376021798365
+          ], 
+          "28099": [
+            888, 
+            1.0
+          ], 
+          "28101": [
+            781, 
+            1.0
+          ], 
+          "28102": [
+            1524, 
+            1.040983606557377
+          ], 
+          "28103": [
+            679, 
+            1.0
+          ], 
+          "28104": [
+            2421, 
+            1.0066528066528067
+          ], 
+          "28105": [
+            810, 
+            1.0062111801242235
+          ], 
+          "28107": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-04": {
+        "171": {
+          "28104": [
+            2421, 
+            1.0066528066528067
+          ], 
+          "28105": [
+            810, 
+            1.0062111801242235
+          ], 
+          "28106": [
+            599, 
+            1.0067226890756302
+          ], 
+          "28107": [
+            3552, 
+            3.020408163265306
+          ], 
+          "28108": [
+            1607, 
+            1.3075671277461351
+          ], 
+          "28109": [
+            613, 
+            1.0623916811091854
+          ], 
+          "28110": [
+            938, 
+            0.8791002811621368
+          ], 
+          "28111": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-05": {
+        "171": {
+          "28106": [
+            599, 
+            1.0067226890756302
+          ], 
+          "28107": [
+            1184, 
+            1.0068027210884354
+          ], 
+          "28108": [
+            1607, 
+            1.3075671277461351
+          ], 
+          "28109": [
+            613, 
+            1.0623916811091854
+          ], 
+          "28111": [
+            1969, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-06-06": {
+        "162": {
+          "3861": [
+            1200, 
+            1.0
+          ], 
+          "3862": [
+            1481, 
+            1.0
+          ], 
+          "3864": [
+            0, 
+            0.0
+          ]
+        }, 
+        "171": {
+          "28111": [
+            1969, 
+            1.0
+          ], 
+          "28112": [
+            1612, 
+            1.000620732464308
+          ], 
+          "28113": [
+            857, 
+            0.829622458857696
+          ]
+        }
+      }, 
+      "2017-06-07": {
+        "162": {
+          "3865": [
+            651, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-06-08": {
+        "162": {
+          "3867": [
+            1351, 
+            1.0
+          ], 
+          "3868": [
+            1218, 
+            1.000821692686935
+          ], 
+          "3869": [
+            1402, 
+            1.0
+          ], 
+          "3870": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-09": {
+        "171": {
+          "28108": [
+            1606, 
+            1.306753458096013
+          ], 
+          "28109": [
+            613, 
+            1.0623916811091854
+          ], 
+          "28110": [
+            938, 
+            0.8791002811621368
+          ], 
+          "28111": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-10": {
+        "171": {
+          "28111": [
+            1969, 
+            1.0
+          ], 
+          "28112": [
+            1611, 
+            1.0
+          ], 
+          "28113": [
+            1033, 
+            1.0
+          ], 
+          "28114": [
+            1609, 
+            1.0805910006715918
+          ]
+        }
+      }, 
+      "2017-06-11": {
+        "162": {
+          "3873": [
+            1860, 
+            1.0
+          ], 
+          "3874": [
+            592, 
+            0.6997635933806147
+          ], 
+          "3875": [
+            846, 
+            1.0
+          ], 
+          "3876": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-12": {
+        "162": {
+          "3876": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-13": {
+        "162": {
+          "3879": [
+            1869, 
+            1.0
+          ], 
+          "3880": [
+            1172, 
+            1.0008539709649873
+          ], 
+          "3882": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-14": {
+        "171": {
+          "28110": [
+            938, 
+            0.8791002811621368
+          ], 
+          "28111": [
+            1969, 
+            1.0
+          ], 
+          "28112": [
+            1611, 
+            1.0
+          ], 
+          "28113": [
+            1033, 
+            1.0
+          ], 
+          "28114": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-15": {
+        "162": {
+          "3882": [
+            0, 
+            0.0
+          ]
+        }, 
+        "171": {
+          "28114": [
+            1609, 
+            1.0805910006715918
+          ], 
+          "28115": [
+            1373, 
+            1.0
+          ], 
+          "28116": [
+            695, 
+            1.0014409221902016
+          ], 
+          "28117": [
+            2836, 
+            2.0
+          ], 
+          "28118": [
+            4432, 
+            2.0
+          ]
+        }
+      }, 
+      "2017-06-16": {
+        "162": {
+          "3882": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-17": {
+        "162": {
+          "3877": [
+            923, 
+            1.0
+          ], 
+          "3878": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-18": {
+        "68": {
+          "19662": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-19": {
+        "68": {
+          "19662": [
+            2654, 
+            1.0
+          ], 
+          "19663": [
+            2463, 
+            1.0
+          ], 
+          "19664": [
+            2331, 
+            1.0
+          ], 
+          "19665": [
+            4882, 
+            2.0
+          ], 
+          "19666": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-20": {
+        "162": {
+          "3873": [
+            0, 
+            0.0
+          ], 
+          "3878": [
+            0, 
+            0.0
+          ], 
+          "3880": [
+            1172, 
+            1.0008539709649873
+          ], 
+          "3881": [
+            607, 
+            1.0
+          ]
+        }, 
+        "68": {
+          "19666": [
+            2407, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-06-21": {
+        "162": {
+          "3873": [
+            1860, 
+            1.0
+          ], 
+          "3874": [
+            592, 
+            0.6997635933806147
+          ], 
+          "3875": [
+            846, 
+            1.0
+          ], 
+          "3894": [
+            3136, 
+            1.0
+          ], 
+          "3895": [
+            1530, 
+            1.0006540222367561
+          ], 
+          "3896": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-22": {
+        "162": {
+          "3864": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-24": {
+        "162": {
+          "3870": [
+            2910, 
+            0.6466666666666666
+          ], 
+          "3891": [
+            1664, 
+            1.0012033694344165
+          ], 
+          "3892": [
+            1603, 
+            1.0006242197253432
+          ], 
+          "3894": [
+            3136, 
+            1.0
+          ], 
+          "3895": [
+            1529, 
+            1.0
+          ], 
+          "3896": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-25": {
+        "171": {
+          "28090": [
+            622, 
+            0.9983948635634029
+          ], 
+          "28091": [
+            1131, 
+            1.0
+          ], 
+          "28092": [
+            1276, 
+            0.9992169146436961
+          ], 
+          "28093": [
+            584, 
+            1.0
+          ], 
+          "28094": [
+            1076, 
+            0.9990714948932219
+          ], 
+          "28095": [
+            2216, 
+            1.0
+          ], 
+          "28096": [
+            0, 
+            0.0
+          ], 
+          "28097": [
+            0, 
+            0.0
+          ]
+        }, 
+        "68": {
+          "19661": [
+            2526, 
+            1.0
+          ], 
+          "19662": [
+            1428, 
+            0.5380557648831952
+          ]
+        }
+      }, 
+      "2017-06-26": {
+        "68": {
+          "19665": [
+            2441, 
+            1.0
+          ], 
+          "19666": [
+            2406, 
+            0.9995845450768591
+          ], 
+          "19667": [
+            2473, 
+            0.9995957962813258
+          ], 
+          "19668": [
+            2569, 
+            0.9996108949416342
+          ], 
+          "19669": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-27": {
+        "26": {
+          "17882": [
+            2605, 
+            0.9996162701458173
+          ], 
+          "17883": [
+            2595, 
+            0.9996147919876733
+          ], 
+          "17884": [
+            1899, 
+            0.7004795278495021
+          ]
+        }, 
+        "68": {
+          "19669": [
+            2679, 
+            1.0
+          ]
+        }
+      }, 
+      "2017-06-28": {
+        "162": {
+          "3864": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-29": {
+        "68": {
+          "19666": [
+            2407, 
+            1.0
+          ], 
+          "19667": [
+            2473, 
+            0.9995957962813258
+          ], 
+          "19668": [
+            2569, 
+            0.9996108949416342
+          ], 
+          "19669": [
+            0, 
+            0.0
+          ]
+        }
+      }, 
+      "2017-06-30": {
+        "68": {
+          "19661": [
+            2526, 
+            1.0
+          ], 
+          "19662": [
+            0, 
+            0.0
+          ], 
+          "19669": [
+            2678, 
+            0.9996267263904441
+          ]
+        }
+      }
+    }
+  }, 
+  "num_weeks": 22, 
+  "recommended_weekly_viewing": 18, 
+  "success": true, 
+  "today": "2017-07-05"
+}
