@@ -9,4 +9,4 @@ Since the github.io provides static web page service only, the backend of VUC ca
 The screenshot is as follows:
 
 
-![Screenshot of VUC](https://raw.githubusercontent.com/hehuan2112/VideoUtilizationCalendar/master/docs/static/img/cover.png)
+![Screenshot of VUC](https://raw.githubusercontent.com/hehuan2112/VideoUtilizationCalendar/master/docs/static/img/screenshot.png)
