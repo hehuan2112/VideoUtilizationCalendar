@@ -1,8 +1,8 @@
 /**********************************************************
  * Global configs
  *********************************************************/
-html, body {
-    overflow: hidden;
+ html, body {
+    overflow-x: hidden;
     margin: 0 0 0 5px;
     padding: 0;
 }
@@ -355,4 +355,115 @@ a:hover {
 #lcal-wc-chart {
     width: 1180px;
     height: 200px;
+}
+
+/**********************************************************
+ * Class for LCAL-DAY INFO BOX
+ *********************************************************/
+ #lcal-day-info{
+    position: absolute;
+    top: 280px;
+    left: 1200px;
+    display: block;
+    width: 250px;
+    padding: 5px;
+
+    min-height: 150px;
+    max-height: 400px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-shadow: 0 0 5px grey;
+    z-index: 999;
+}
+#lcal-day-info div {
+    float: left;
+}
+#lcal-day-info h3 {
+    font-size: 13px;
+    padding: 0 0 2px 0;
+    margin: 0 0 5px 0;
+    border-bottom: 1px solid black;
+}
+.lcal-day-info-course {
+    width: 100%;
+    margin: 0 0 3px 0;
+}
+.lcal-day-info-course-title {
+    font-size: 12px;
+}
+.lcal-day-info-course-videolist {
+    width: 240px;
+    overflow-x: hidden;
+}
+.lcal-day-info-course-video {
+    padding: 2px 0 2px 5px;
+}
+.lcal-day-info-course-video-img {
+    width: 35px;
+    cursor: pointer;
+}
+.lcal-day-info-course-video-img img {
+    width: 30px;
+}
+.lcal-day-info-course-video-info {
+    width: 200px;
+    font-size: 11px;
+}
+.lcal-day-info-course-video-info p {
+    margin: 0 0 2px 0;
+}
+.lcal-day-info-course-video-info-title {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/**********************************************************
+ * Class for Tooltips
+ *********************************************************/
+ .ui-tooltip, .arrow:after {
+    background: white;
+    border: 1px solid white;
+}
+.ui-tooltip {
+    padding: 5px;
+    color: black;
+    border-radius: 5px;
+    font: bold 12px "Helvetica Neue", Sans-Serif;
+    text-transform: uppercase;
+    box-shadow: 0 0 1px gray;
+}
+.arrow {
+    width: 70px;
+    height: 16px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -16px;
+}
+.arrow.top {
+    top: -16px;
+    bottom: auto;
+}
+.arrow.left {
+    left: 20%;
+}
+.arrow:after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 6px 5px 9px -9px white;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.arrow.top:after {
+    bottom: -20px;
+    top: auto;
 }

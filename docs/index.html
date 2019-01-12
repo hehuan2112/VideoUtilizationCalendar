@@ -5,20 +5,58 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Video Utilization Calendar</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="./static/css/main.css" />
+    <link rel="stylesheet" href="https://cdn.staticfile.org/jqueryui/1.12.1/jquery-ui.min.css">
     <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./static/css/main.css" />
 </head>
 <body>
 <div id="wrapper">
-    <h1>
-        <i class="fa fa-calendar-check-o" aria-hidden="true"></i>
-        Video Utilization Calendar Standalone Version
-    </h1>
 
 <div id="lcal" style="display: none;">
+<h1>
+    <a href="/"><i class="fa fa-calendar-check-o" aria-hidden="true"></i></a>
+    Video Utilization Calendar Standalone Version
+</h1>
+
+<div id="lcal-video-info">
+
+</div>
+
+<div id="lcal-day-info">
+    <h3>
+        <a href="javascript:hide_day_info();"><i class="fa fa-window-close-o" aria-hidden="true"></i></a>
+        {{ date }} Viewed Videos
+    </h3>
+    <div v-for="course in courses" class="lcal-day-info-course">
+        <div class="lcal-day-info-course-title"
+            :class="'course-color-'+course.info.seq">
+            {{ course.info.course_code.toUpperCase() }} | {{ course.info.etitle.toUpperCase() }}
+        </div>
+        <div class="lcal-day-info-course-videolist">
+            <div v-for="video in course.viewed_video_list" class="lcal-day-info-course-video">
+                <div class="lcal-day-info-course-video-img" v-on:click="view_video(video.video_id);">
+                    <img src="./static/img/default_poster.jpg">
+                </div>
+                <div class="lcal-day-info-course-video-info">
+                    <p class="lcal-day-info-course-video-info-title" 
+                       v-on:click="view_video(video.video_id);">{{ video.info.title }}</p>
+                    <p>
+                        <div class="lcal-video lcal-video-watched"
+                            :class="'course-bdcolor-'+dt['videos'][video.video_id].course_seq">
+                            <div class="lcal-video-watchtime" 
+                                :class="'course-bgcolor-'+dt['videos'][video.video_id].course_seq" 
+                                :style="{width: (video.v_ur>1?1:video.v_ur)*10 + 'px'}">
+                            </div>
+                        </div>
+                        Viewed: {{ util.sec2display(video.time) }} / {{ util.sec2display(video.info.duration) }}
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div id="lcal-pt">
-    
     <table cellspacing="0">
         <tr>
             <th width="250px" class="lcal-pt-header">Course Name</th>
@@ -56,7 +94,7 @@
         <tr v-for="course in courses" class="lcal-pt-item">
             <td class="lcal-pt-coursename" :title="course.title" valign="top">
                 <i class="fa fa-book" :class="'course-color-' + course.seq" aria-hidden="true"></i> 
-                <a :href="'/course/' + course.course_id">
+                <a :href="'/student?s=[[stuid]]&cs=' + course.course_id">
                     [{{ course.course_code.toUpperCase() }}] {{ course.etitle.toUpperCase() }}
                 </a>
             </td>
@@ -94,7 +132,7 @@
                     <div class="lcal-pt-chpitem-videos">
                         <div v-for="video in chp" 
                             :id="'lcal-pt-videoitem-' + video.video_id" 
-                            :title="video.title" 
+                            :title="video.title + ': ' + util.sec2display(video.time) + ' / ' + util.sec2display(video.duration)" 
                             class="lcal-video"
                             :class="[{'lcal-video-watched':video.hasOwnProperty('time'), 'lcal-video-unwatched':!video.hasOwnProperty('time')}, 'course-bdcolor-'+dt['videos'][video.video_id].course_seq]"
                             v-on:click="view_video(video.video_id);">
@@ -154,9 +192,6 @@
 
 </div><!-- /#lcal -->
 
-<svg id="my_svg">
-
-</svg>
 </div><!-- /#wrapper -->
 
 <!-- load 3rd libraries -->
@@ -164,6 +199,8 @@
 <script src="https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdn.staticfile.org/moment.js/2.22.2/moment.min.js"></script>
 <script src="https://cdn.staticfile.org/vue/2.3.0/vue.min.js"></script>
+<script src="https://cdn.staticfile.org/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
 
 <!-- scripts of showing VUC -->
 <script>
@@ -184,6 +221,9 @@ var util = {
     ],
 
     sec2display: function(sec) {
+        if (sec===undefined) {
+            return "00:00:00";
+        }
         return this.pad(parseInt(sec / 3600), 2) + ':' +
             this.pad(parseInt((sec % 3600) / 60), 2) + ':' +
             this.pad(sec % 60, 2);
@@ -199,23 +239,16 @@ var util = {
     }
 };
 
-// for vue.js use
 var app_lcal_pt = null;
-// for echarts use
 var cht_lcal_wc = null;
-// for query course and video data
-var dt = {
-    'stuid': '46135160170313693011',
-    'hide_future': 'yes',
-    'courses': {},
-    'videos': {},
-    'stat': null
-}
+
+// The lcal day info box
+var app_lcal_di = null;
 
 /*
  * open the video page
  */
-function view_video(video_id) {
+ function view_video(video_id) {
     alert('The video [' + video_id + '] will be opened in a new window.\nThis version removed this function.');
 }
 
@@ -241,6 +274,7 @@ function init_lcal_wc(data) {
             borderColor: '#999999',
             borderRadius: 5
         },
+        // color: ['#1F77B4', '#FF7F0E'],
         tooltip : {
             trigger: 'axis',
             axisPointer : {
@@ -311,10 +345,11 @@ function init_lcal_wc(data) {
     cht_lcal_wc.setOption(option);
 }
 
+
 /*
  * initialize the course progress table
  */
-function init_lcal_pt(data) {
+ function init_lcal_pt(data) {
     app_lcal_pt = new Vue({
         el: '#lcal-pt',
         data: {
@@ -322,6 +357,7 @@ function init_lcal_pt(data) {
         }
     });
 }
+
 
 /*
  * initialize the viewing calendar
@@ -335,6 +371,146 @@ function init_lcal_vc(data) {
 
     // mark viewing days
     mark_calendar(data);
+}
+
+function draw_calendar(date_today, date_start, num_weeks) {
+    // draw the top header
+    var tmp = moment(date_start);
+    console.log("* draw cal start at: " + tmp.format('YYYY-MM-DD'));
+    for (var i=1; i<6; i++) {
+        $('#lcal-vc-topheader').append(
+            $('<div class="lcal-vc-topheader-month">'+(util.months[(tmp.month()+i)%12][0])+'</div>')
+        );
+    }
+    // draw the content
+    for (var i=0; i<7; i++) {
+        var tr = $('#lcal-vc-weekday'+i);
+        // tr.css('width', )
+        for (var j=0; j<num_weeks; j++) {
+            // the info of this day
+            var day = moment(date_start);
+            day.add(j*7+i, 'd');
+            
+            // set the past/today/future(ptf) class
+            var cls_day_date_ptf = 'lcal-vc-day-past';
+            var cls_dayheader_date_ptf = 'lcal-vc-dayheader-date-past';
+            if (day.isSame(date_today)) {
+                cls_day_date_ptf = 'lcal-vc-day-today';
+                cls_dayheader_date_ptf = 'lcal-vc-dayheader-date-today';
+            } else if (day.isAfter(date_today)) {
+                cls_day_date_ptf = 'lcal-vc-day-future';
+                cls_dayheader_date_ptf = 'lcal-vc-dayheader-date-future';
+            }
+            
+            // set different border for days which are next to next month
+            var day_divider = moment(date_start);
+            day_divider.add(j*7+i, 'd');
+
+            // 1. the right border divider
+            day_divider.add(7, 'd');
+            var cls_right_divider = "";
+            if (day.month() != day_divider.month()) {
+                cls_right_divider = 'lcal-vc-day-right-divider';
+            }
+
+            // 2. the bottom border divider
+            day_divider.subtract(6, 'd');
+            var cls_bottom_divider = "";
+            if (day.month() != day_divider.month()) {
+                cls_bottom_divider = 'lcal-vc-day-bottom-divider';
+            }
+
+            tr.append($([
+                '<div id="lcal-vc-day-'+(day.format('YYYY-MM-DD'))+'" class="lcal-vc-day '+cls_right_divider+' '+cls_bottom_divider+' '+cls_day_date_ptf+'">' +
+                '  <div id="lcal-vc-dayheader-'+(day.format('YYYY-MM-DD'))+'" class="lcal-vc-dayheader">' +
+                '     <div class="lcal-vc-dayheader-date '+cls_dayheader_date_ptf+'">'+(day.format('DD'))+'</div>' +
+                '     <div id="lcal-vc-dayheader-mark-'+(day.format('YYYY-MM-DD'))+'" class="lcal-vc-dayheader-mark"></div>' +
+                '  </div>' +
+                '  <div id="lcal-vc-dayvideos-'+(day.format('YYYY-MM-DD'))+'" class="lcal-vc-dayvideos"></div>' +
+                '</div>'
+            ].join('')))
+        }
+    }
+}
+
+function mark_calendar(data) {
+    // mark exams
+    for (var i=0; i<data.exams.length; i++) {
+        var exam = data.exams[i];
+        var exam_title = ['Exams on ' + exam.date];
+        for (var j=0; j<exam.course_ids.length; j++) {
+            var course_id = exam.course_ids[j];
+            exam_title.push(' - [' + dt.courses[course_id]['course_code'] + '] ' +dt.courses[course_id]['etitle']);
+        }
+        $('#lcal-vc-dayheader-mark-' + exam.date).append(
+            $('<i class="fa fa-bookmark lcal-vc-dayheader-mark-exam" aria-hidden="true" title="'+exam_title.join('\n')+'"></i>')
+        );
+    }
+    // mark viewings
+    for (var date in data.history.rs) {
+        // no such date in calendar
+        if ($('#lcal-vc-day-' + date).length==0) {
+            continue;
+        }
+
+        // hide marks in future
+        if (dt.hide_future == 'yes') {
+            if (moment(date).isAfter(data.today)) {
+                continue;
+            }
+        }
+        var rec = data.history.rs[date];
+        // mark booked in calendar
+        $('#lcal-vc-dayheader-mark-' + date).append(
+            $('<i class="fa fa-check-square-o" aria-hidden="true"></i>')
+        );
+        // mark videos in calendar
+        var vs = [];
+        for (var course_id in rec) {
+            var course = rec[course_id];
+            for (var video_id in course) {
+                var video = course[video_id];
+                // video: [time_watched(seconds), video_ur]
+                // add this video record to calendar
+                var v = $([
+                    '<div class="lcal-vc-video lcal-vc-video-watched course-bdcolor-'+(dt['videos'][video_id].course_seq)+'" title="' + (dt['courses'][course_id].etitle) + ' - ' + (dt['videos'][video_id].title) + ' ' + util.sec2display(video[0])+' / ' + util.sec2display((dt['videos'][video_id].duration)) + '">' +
+                    '  <div class="lcal-vc-video-watchtime course-bgcolor-'+(dt['videos'][video_id].course_seq)+'" style="width:'+((video[1]>1?1:video[1])*8)+'px"></div>' +
+                    '</div>'
+                ].join(''));
+                vs.push(v);
+            }
+        }
+        // max 10 videos in one day
+        var vs_display = vs.slice(0, 10);
+        for (var i=0; i<vs_display.length; i++) {
+            $('#lcal-vc-dayvideos-'+date).append(vs_display[i]);
+        }
+        if (vs.length>10) {
+            $('#lcal-vc-dayvideos-'+date).append(
+                $('<div class="lcal-vc-video-more">'+vs.length+'+</div>')
+            );
+        }
+        // bind event to this date
+        $('#lcal-vc-dayvideos-'+date).on('click', function() {
+            var cell_date = $(this).attr('id').substring(18);
+            // console.log('* click ' + cell_date);
+            // Begin update the info
+            show_day_info(cell_date, $(this).offset());
+        });
+    }
+}
+
+
+// A dict object for query course and video data.
+// including some values from requests by Flask
+var dt = {
+    'stuid': '[[ stuid ]]',
+    'csids': '[[ csids ]]',
+    'hide_future': '[[ hide_future ]]',
+    'courses': {},
+    'videos': {},
+    'raw': null,
+    'stat': null
 }
 
 /**
@@ -426,141 +602,69 @@ function update_lcal(data) {
         init_lcal_wc(data);
     }
 
-}
-
-/*
- * draw a calendar layout with given parameters
- */
-function draw_calendar(date_today, date_start, num_weeks) {
-    // draw the top header
-    var tmp = moment(date_start);
-    for (var i=1; i<6; i++) {
-        $('#lcal-vc-topheader').append(
-            $('<div class="lcal-vc-topheader-month">'+(util.months[tmp.month()+i][0])+'</div>')
-        );
-    }
-    // draw the content
-    for (var i=0; i<7; i++) {
-        var tr = $('#lcal-vc-weekday'+i);
-        // tr.css('width', )
-        for (var j=0; j<num_weeks; j++) {
-            // the info of this day
-            var day = moment(date_start);
-            day.add(j*7+i, 'd');
-            
-            // set the past/today/future(ptf) class
-            var cls_day_date_ptf = 'lcal-vc-day-past';
-            var cls_dayheader_date_ptf = 'lcal-vc-dayheader-date-past';
-            if (day.isSame(date_today)) {
-                cls_day_date_ptf = 'lcal-vc-day-today';
-                cls_dayheader_date_ptf = 'lcal-vc-dayheader-date-today';
-            } else if (day.isAfter(date_today)) {
-                cls_day_date_ptf = 'lcal-vc-day-future';
-                cls_dayheader_date_ptf = 'lcal-vc-dayheader-date-future';
-            }
-            
-            // set different border for days which are next to next month
-            var day_divider = moment(date_start);
-            day_divider.add(j*7+i, 'd');
-
-            // 1. the right border divider
-            day_divider.add(7, 'd');
-            var cls_right_divider = "";
-            if (day.month() != day_divider.month()) {
-                cls_right_divider = 'lcal-vc-day-right-divider';
-            }
-
-            // 2. the bottom border divider
-            day_divider.subtract(6, 'd');
-            var cls_bottom_divider = "";
-            if (day.month() != day_divider.month()) {
-                cls_bottom_divider = 'lcal-vc-day-bottom-divider';
-            }
-
-            tr.append($([
-                '<div id="lcal-vc-day-'+(day.format('YYYY-MM-DD'))+'" class="lcal-vc-day '+cls_right_divider+' '+cls_bottom_divider+' '+cls_day_date_ptf+'">' +
-                '  <div id="lcal-vc-dayheader-'+(day.format('YYYY-MM-DD'))+'" class="lcal-vc-dayheader">' +
-                '     <div class="lcal-vc-dayheader-date '+cls_dayheader_date_ptf+'">'+(day.format('DD'))+'</div>' +
-                '     <div id="lcal-vc-dayheader-mark-'+(day.format('YYYY-MM-DD'))+'" class="lcal-vc-dayheader-mark"></div>' +
-                '  </div>' +
-                '  <div id="lcal-vc-dayvideos-'+(day.format('YYYY-MM-DD'))+'" class="lcal-vc-dayvideos"></div>' +
-                '</div>'
-            ].join('')))
-        }
+    // The Day Info
+    if (app_lcal_di==null) {
+        init_lcal_di();
     }
 }
 
-/*
- * mark the viewing days on the calendar
- */
-function mark_calendar(data) {
-    // mark exams
-    for (var i=0; i<data.exams.length; i++) {
-        var exam = data.exams[i];
-        var exam_title = ['Exams on ' + exam.date];
-        for (var j=0; j<exam.course_ids.length; j++) {
-            var course_id = exam.course_ids[j];
-            exam_title.push(' - [' + dt.courses[course_id]['course_code'] + '] ' +dt.courses[course_id]['etitle']);
-        }
-        $('#lcal-vc-dayheader-mark-' + exam.date).append(
-            $('<i class="fa fa-bookmark lcal-vc-dayheader-mark-exam" aria-hidden="true" title="'+exam_title.join('\n')+'"></i>')
-        );
-    }
-    // mark viewings
-    for (var date in data.history.rs) {
-        // no such date in calendar
-        if ($('#lcal-vc-day-' + date).length==0) {
-            continue;
-        }
 
-        // hide marks in future
-        if (dt.hide_future == 'yes') {
-            if (moment(date).isAfter(data.today)) {
-                continue;
-            }
+function init_lcal_di() {
+    app_lcal_di = new Vue({
+        el: '#lcal-day-info',
+        data: {
+            'date': '2018-01-09',
+            'courses': []
         }
-        var rec = data.history.rs[date];
-        // mark booked in calendar
-        $('#lcal-vc-dayheader-mark-' + date).append(
-            $('<i class="fa fa-check-square-o" aria-hidden="true"></i>')
-        );
-        // mark videos in calendar
-        var vs = [];
-        for (var course_id in rec) {
-            var course = rec[course_id];
-            for (var video_id in course) {
-                var video = course[video_id];
-                // video: [time_watched(seconds), video_ur]
-                // add this video record to calendar
-                var v = $([
-                    '<div onclick="view_video('+video_id+');" class="lcal-vc-video lcal-vc-video-watched course-bdcolor-'+(dt['videos'][video_id].course_seq)+'" title="Watched '+util.sec2display(video[0])+' of '+ (dt['videos'][video_id].title)+'">' +
-                    '  <div class="lcal-vc-video-watchtime course-bgcolor-'+(dt['videos'][video_id].course_seq)+'" style="width:'+((video[1]>1?1:video[1])*8)+'px"></div>' +
-                    '</div>'
-                ].join(''));
-                vs.push(v);
-            }
-        }
-        // max 10 videos in one day
-        var vs_display = vs.slice(0, 10);
-        for (var i=0; i<vs_display.length; i++) {
-            $('#lcal-vc-dayvideos-'+date).append(vs_display[i]);
-        }
-        if (vs.length>10) {
-            $('#lcal-vc-dayvideos-'+date).append(
-                $('<div class="lcal-vc-video-more">'+vs.length+'+</div>')
-            );
-        }
-
-    }
+    });
+    
+    $('#lcal-day-info').offset({top:-280, left:1200});
+    // $('#lcal-day-info').show();
+    // $('#lcal-day-info').hide();
 }
+
+function show_day_info(date, offset) {
+    var courses= [];
+    for (var course_id in dt.raw.history.rs[date]) {
+        var course = {
+            info: dt.courses[course_id],
+            viewed_video_list: []
+        };
+        for (var video_id in dt.raw.history.rs[date][course_id]) {
+            course.viewed_video_list.push({
+                video_id: video_id,
+                info: dt.videos[video_id],
+                time: dt.raw.history.rs[date][course_id][video_id][0],
+                v_ur: dt.raw.history.rs[date][course_id][video_id][1]
+            });
+        }
+        courses.push(course);
+    }
+
+    Vue.set(app_lcal_di, 'courses', courses);
+    Vue.set(app_lcal_di, 'date', date);
+
+    $('#lcal-day-info').offset({top:offset.top - 14, left:offset.left + 52});
+    $('#lcal-day-info').show();
+}
+
+function hide_day_info() {
+    $('#lcal-day-info').hide();
+}
+
 
 function init() {
     $.get(
         './static/data/demo_data_1.json',
-        {},
+        {'stuid': dt.stuid, 'csids': dt.csids},
         function(data) {
+            // cache this data
+            dt.raw = data;
+            // draw the calendar
             update_lcal(data);
             $('#lcal').show();
+            // update ui
+            $(document).tooltip();
         }, 'json'
     );
 }
